@@ -1,5 +1,5 @@
 # Congratulations!
-You reached the next milestone in the application for Frontend Engineer at Doodle. You can code – we trust you on 
+You reached the next milestone in the application for **Frontend Engineer** at Doodle. You can code – we trust you on 
 that one. However, we’d like to see your style!
 
 # The challenge
@@ -57,4 +57,10 @@ Here are some pointers for you:
 * Design: we are not looking for pixel-pushing, but we love attention to detail
 
 # Next steps
+
+Send an email with a link to your repository solution to `code-challenge@doodle.com`.
+
+Make sure your email has the following subject: `FE-<yourname>`. So for example, if your name were "Paul Smith", 
+your email subject would be `FE-Paul Smith`
+
 We will review your solution, we strive to get back to you in **48 hours**. Sometimes it might take more.
