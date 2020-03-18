@@ -2,7 +2,7 @@
 We would like you to build a simple chat interface in Javascript, which is able to send and display messages from 
 all senders. Something like this:
 
-![chat](./chat.png | width=200)
+![chat](./chat.png)
 
 The assets and additional documentation can be found in the **assets** folder.
 
