@@ -5,27 +5,30 @@ participated. Internally we call a doodle a _poll_.
 We would like you to implement a simple Restful API with similar functionality. This is the functionality that your API
 should support:
 
+```
 1. List all polls created by a user
 2. Search polls by its title
 3. List all polls created after a certain date
+```
 
 The design of the API is up to you.
 
-In the **assets** folder you can find a JSON file, which contain some data for you. We expect the responses from your
-API to match the shape of the polls in that file.
+In the **assets** folder you can find a JSON file, which contain some data that you can use to bootstrap your database. 
+We expect the responses from your API to match the shape of the polls in that file.
 
-The outcome should be runnable locally using docker-compose or Kubernetes. Please provide all instructions (or a documented script) needed to run your assignment (i.e. how to build the images and run the containers).
+Your solution should be runnable locally using `docker-compose`. Don't forget to include all the dependencies of your 
+service in the composer file, including your database system of choice. 
 
 # Rules
 We understand your time is precious and would not want you to spend more than **3 to 5 hours** on this over the span 
 of **1 week** max. 
 
-Please use a **VM language**, preferably Java. Feel free to use any framework, like Spring for example.
+Please use a **JVM language**, preferably Java. Feel free to use any framework, like Spring for example.
 
 # What we expect
-It is OK if the challenge is not completed. Try to **prioritize** it by what you think is more important. Tell us what 
-motivated your technology choices, how you tackled the task, what you would do differently were you given more time, 
-what you would differently a second time around, etc.
+It is OK if the challenge is not completed. Try to **prioritize** it by what you think is more important. Please include
+a `README.md` file, that describes to us us what motivated your technology choices, how you tackled the task, what you 
+would do differently were you given more time, what you would differently a second time around, etc.
 
 Here are some pointers for you of things we will be looking for:
 
