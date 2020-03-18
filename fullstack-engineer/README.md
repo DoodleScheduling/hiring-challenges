@@ -2,7 +2,7 @@
 We want you to build a simple chat application which is able to send messages and 
 display messages from all senders:
 
-![chat](./chat.png)
+![chat](./chat.png){:width="100px"}
 
 We'd like you to create a simple backend with an API for messages that reads and writes data from a database, and a 
 frontend to interact with that API.
@@ -13,6 +13,8 @@ Your API should have the following features:
 1. Receive new messages from the client
 2. List all messages in chronological order for the client
 ```
+
+The design of the API is up to you.
 
 Now, when it comes to the frontend, go easy on this one. No perfectly polished CSS is needed. Just present the 
 messages as depicted in the wireframe. 
