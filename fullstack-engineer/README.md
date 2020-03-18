@@ -2,7 +2,7 @@
 We want you to build a simple chat application which is able to send messages and 
 display messages from all senders:
 
-<img src="chat.png" width="100">
+<img src="chat.png" width="300" alt="chat"/>
 
 We'd like you to create a simple backend with an API for messages that reads and writes data from a database, and a 
 frontend to interact with that API.
