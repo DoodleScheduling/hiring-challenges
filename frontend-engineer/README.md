@@ -1,12 +1,8 @@
-# Congratulations!
-You reached the next milestone in the application for **Frontend Engineer** at Doodle. You can code – we trust you on 
-that one. However, we’d like to see your style!
-
 # The challenge
 We would like you to build a simple chat interface in Javascript, which is able to send and display messages from 
 all senders. Something like this:
 
-![chat](./chat.png)
+![chat](./chat.png | width=200)
 
 The assets and additional documentation can be found in the **assets** folder.
 
@@ -14,27 +10,26 @@ For this, we have prepared a simple API which receives new messages in a `POST` 
 and lists all messages reverse chronological order in a `GET` endpoint:
 
 #### List all messages
-<pre>
+```shell script
 curl https://chatty.kubernetes.doodle-test.com/api/chatty/v1.0/?token=
 [YOUR_AWESOME_UNIQUE_TOKEN]
-</pre>
-
+```
 #### List 10 messages before a timestamp
-<pre>
+```shell script
 curl https://chatty.kubernetes.doodle-test.com/api/chatty/v1.0/?
 since=1521096352339&limit=10&token=[YOUR_AWESOME_UNIQUE_TOKEN]
-</pre>
 
+```
 #### Send a message
-<pre>
+```shell script
 curl -X POST \ -H 'Content-Type: application/json' \ -H 'token:
 [YOUR_AWESOME_UNIQUE_TOKEN]' \ -d '{"message":"Hello world","author":"Tom"}' \
 https://chatty.kubernetes.doodle-test.com/api/chatty/v1.0
-</pre>
+```
 
 # Rules
-We understand your time is precious and would not want you to spend more than **3 hours** on this over the span of one 
-week max. The outcome should be runnable locally on a UNIX-flavored OS (MacOS, Linux) in a common browser.
+We understand your time is precious and would not want you to spend more than **3 to 5 hours** on this over the span 
+of **one week** max. The outcome should be runnable locally on a UNIX-flavored OS (MacOS, Linux) in a common browser.
 
 You must use **JavaScript** (Vanilla JS, React, ...). We want you to provide a responsive
 implementation. Keep in mind that Doodle is used worldwide and has to work on commonly
@@ -43,7 +38,7 @@ used browsers.
 We expect to hear back from you in **one week** from now, latest.
 
 # What we expect
-It is OK if the assignment is not completed. Try to prioritize by what you think is more
+It is OK if the assignment is not completed. Try to prioritize it by what you think is more
 important. Tell us what motivated your technology choices, how you tackled the task, what
 you would do differently were you given more time, what you would differently a second time
 around, etc.
