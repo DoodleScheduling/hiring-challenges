@@ -1,4 +1,4 @@
-# The challenge
+# The challenge (Data Engineer)
 
 The goal of the challenge is to have a tool that is able to stream data from 
 [kafka](http://kafka.apache.org/) and count unique things within this data. The simplest use case is
@@ -62,15 +62,13 @@ directory.
 
 ## Hints
 - Tap into other peoples know-how and code. 
-- Expected time is ~8 hours. If you are above that think about which parts to leave out and just document HOW you 
-would do them. 
-- You should not use any big data framework, just your favourite fast programming language that has a Kafka driver. 
-The most simplest version to archieve step 5 can be done in about 10 lines of code (plus the boilerplate to read from 
-kafka). 
-- If you found the cheatcode for level 5 (well done!) you should try to archieve level 10 ;)
+- You should not use any big data framework, just your favorite fast programming language that has 
+  a Kafka driver. The simplest version to achieve step 5 can be done with about 10 lines of code 
+  (plus the boilerplate to read from Kafka). 
+- If you found the cheatcode for level 5 (well done!) you should try to achieve level 10 ;)
 - Check that your last commit compiles.
-- Be smart and impress us. It does not matter if you impress us with nice clean code or with a very clever hack to 
-achieve the business goal in short time.
+- Be smart and impress us. It does not matter if you impress us with nice clean code or with a 
+  very clever hack to achieve the business goal in short time.
 
 # Rules
 We understand your time is precious and would not want you to spend more than **5 to 8 hours** on 
@@ -96,9 +94,19 @@ Here are some pointers for you of things we will be looking for:
 - Ability to break down *business* requirements into simple prototype code
 - Clean project setup and documentation
 - Research and use of suitable data structure for a specific use case. explain which and why.
-- Ability to write performant code to handle streaming data. measure and document _how_ fast your solution is.
+- Ability to write performant code to handle streaming data. measure and document _how_ fast your 
+  solution is.
 - Understanding how to benchmark and analyze performance bottle necks. what tools did you use?
-- Awareness of the mechanisms and costs of serialization. Explain (and ideally prove!) why json is an ideal format 
-here or why not and then suggest a better solution.
+- Awareness of the mechanisms and costs of serialization. Explain (and ideally prove!) why json is 
+  an ideal format here or why not and then suggest a better solution.
 - Scalability: _explain_ how you _would_ scale your approach
 
+# Next steps
+
+Send an email with a link to your repository solution to `code-challenge@doodle.com`.
+
+Make sure your email has the following subject: `DE-<yourname>`. So for example, if your name were 
+"Paul Smith", your email subject would be `DE-Paul Smith`
+
+We will review your solution, we strive to get back to you in **48 hours**. Sometimes it might take 
+more.

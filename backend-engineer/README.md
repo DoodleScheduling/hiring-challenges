@@ -1,4 +1,4 @@
-# The challenge
+# The challenge (Backend Engineer)
 When users go to their [dashboard](https://doodle.com/dashboard) on doodle.com, they will see a list of the doodles they have either created or
 participated. Internally we call a doodle a _poll_.
 

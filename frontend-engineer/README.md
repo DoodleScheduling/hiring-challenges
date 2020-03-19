@@ -1,4 +1,4 @@
-# The challenge
+# The challenge (Frontend Engineer)
 We would like you to build a simple chat interface in Javascript, which is able to send and display messages from 
 all senders. Something like this:
 

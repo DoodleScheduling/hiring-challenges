@@ -1,4 +1,4 @@
-# The challenge
+# The challenge (Fullstack Engineer)
 We want you to build a simple chat application which is able to send messages and 
 display messages from all senders:
 
