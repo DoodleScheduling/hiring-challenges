@@ -17,7 +17,7 @@ challenges.
 
 Send an email with a link to your repository solution to code-challenge@doodle.com.
 
-Make sure your email has the following subject: PE-<yourname>. So for example, if your name were 
+Make sure your email has the following subject: `PE-<yourname>`. So for example, if your name were 
 "Paul Smith", your email subject would be FE-Paul Smith
 
 We will review your solution, we strive to get back to you in __48 hours__. Sometimes it might take more.
