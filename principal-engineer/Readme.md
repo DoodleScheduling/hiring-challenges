@@ -13,8 +13,6 @@ you code. Once we have reviewed your code we will get into a more high-level and
 conversation about how you would tackle some other problems that involve architecture and cross team
 challenges.
 
-# What we expect
-
 Send an email with a link to your repository solution to code-challenge@doodle.com.
 
 Make sure your email has the following subject: `PE-<yourname>`. So for example, if your name were 
