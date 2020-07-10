@@ -20,6 +20,6 @@ In upcoming interview, you will have the prepared session with the team. Additio
 ## Next steps
 Send an email with instructions for the session to code-challenge@doodle.com.
 
-Make sure your email has the following subject: TL-<yourname>. So for example, if your name were "Paul Smith", your email subject would be TL-Paul Smith
+Make sure your email has the following subject: TL-&lt;yourname&gt;. So for example, if your name were "Paul Smith", your email subject would be TL-Paul Smith
 
 We will review your instruction, we strive to get back to you in 48 hours.
