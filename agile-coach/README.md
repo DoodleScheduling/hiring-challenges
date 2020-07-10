@@ -14,12 +14,12 @@ The chapters don't have leads for alignment. The members of a chapter have to al
 
 # Delivery
 
-Prepare a retrospective or coaching session for the principals team. Try to build up alignment and set action points for team members and next sessions.
-In the next interview, you will have the prepared session with the team. Additional guests will be one or two of Doodle's delivery managers.
+Prepare a one hour coaching session for the principals team. Try to build up alignment and set action points for team members and next sessions.
+In upcoming interview, you will have the prepared session with the team. Additional guests will be one or two of Doodle's delivery managers.
 
 ## Next steps
 Send an email with instructions for the session to code-challenge@doodle.com.
 
 Make sure your email has the following subject: TL-<yourname>. So for example, if your name were "Paul Smith", your email subject would be TL-Paul Smith
 
-We will review your instruction, we strive to get back to you in 48 hours. Sometimes it might take more.
+We will review your instruction, we strive to get back to you in 48 hours.
