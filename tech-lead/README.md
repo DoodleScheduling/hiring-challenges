@@ -4,7 +4,7 @@ As a Tech Lead you will be working closely with the entire team and when it come
 Product Manager, you will be their sparring partner, discussing what it takes to get the team's
 roadmap executed.
 
-Because of that, we would ask you to do the [Fullstack challenge](https://github.com/DoodleScheduling/hiring-challenges/tree/master/fullsack-engineer). We don't expect you to be an expert in both backend and frontend necessarily, 
+Because of that, we would ask you to do the [Fullstack challenge](https://github.com/DoodleScheduling/hiring-challenges/tree/master/fullstack-engineer). We don't expect you to be an expert in both backend and frontend necessarily, 
 but you should be able to talk to engineers from both ends. We are not looking for perfection though,
 we are looking for someone that can lead the team that executes it perfectly.
 
