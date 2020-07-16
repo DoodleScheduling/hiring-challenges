@@ -54,7 +54,7 @@ Here are some pointers for you of things we will be looking for:
 
 Send an email with a link to your repository solution to `code-challenge@doodle.com`.
 
-Make sure your email has the following subject: `FE-<yourname>`. So for example, if your name were "Paul Smith", 
-your email subject would be `FE-Paul Smith`
+Make sure your email has the following subject: `WD-<yourname>`. So for example, if your name were "Paul Smith", 
+your email subject would be `WD-Paul Smith`
 
 We will review your solution, we strive to get back to you in **48 hours**. Sometimes it might take more.
