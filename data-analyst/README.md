@@ -4,6 +4,10 @@ Adventure Works Cycles, a large wholesaler of bicycles in the US and Europe, has
 
 The company’s IT department has provided you with the company’s sales data over the last few years. In the absence of any consultation with the business, you will need to examine this data on your own and decide which key elements you will focus on in your analysis.
 
+## Data
+
+The Adventure Works Cycles purchase order data is available in a large CSV contained inside `adventure_works_purchase_orders.tar.gz`.
+
 ## Deliverables
 
 As an outcome of this test, we expect you to send us two documents:
