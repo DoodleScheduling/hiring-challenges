@@ -103,10 +103,7 @@ Here are some pointers for you of things we will be looking for:
 
 # Next steps
 
-Send an email with a link to your repository solution to `code-challenge@doodle.com`.
-
-Make sure your email has the following subject: `DE-<yourname>`. So for example, if your name were 
-"Paul Smith", your email subject would be `DE-Paul Smith`
+Send an email with a link to your repository solution.
 
 We will review your solution, we strive to get back to you in **48 hours**. Sometimes it might take 
 more.
