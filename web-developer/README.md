@@ -50,9 +50,19 @@ Here are some pointers for you of things we will be looking for:
 * Accessibility: the more usable the interface, the better
 * Design: we are not looking for pixel-pushing, but we love attention to detail
 
+# The coding challenge put into context
+We would also like to hear how you would approach the following realistic situation:
+
+_The scrum team you are part of, is tasked with increasing engagement with the users because better engagement will result in lower churn. One of the ideas for increasing engagement, which comes up from multiple team members, is to launch a live chat. The hypothesis is that launching a chat will help users give feedback, understand the product usage better, contact support in real time, etc., thus increasing engagement._
+
+1. What are the questions you will ask the team, to make sure that as team you are heading in the right direction?
+2. How you will you validate the hypothesis, without going into the whole product development cycle?
+
+There is no wrong or right answer. We are interested in understanding your thought process here.
+
 # Next steps
 
-Send an email with a link to your repository solution to `code-challenge@doodle.com`.
+Send an email with a link to your repository solution and the answers to points above to `code-challenge@doodle.com`.
 
 Make sure your email has the following subject: `WD-<yourname>`. So for example, if your name were "Paul Smith", 
 your email subject would be `WD-Paul Smith`
