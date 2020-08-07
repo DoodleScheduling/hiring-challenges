@@ -30,4 +30,4 @@ It will be assessed based on:
 - Your ability to communicate your insights in a clear and simple manner to a target-audience.
 - Your ability with Python data analysis.
 
-We will review your solution, we strive to get back to you in **48 hours**. Sometimes it might take more.
+We will review your solution, we strive to get back to you in **1 week**. Sometimes it might take more.
