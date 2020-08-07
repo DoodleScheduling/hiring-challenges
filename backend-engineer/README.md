@@ -13,7 +13,7 @@ should support:
 
 The design of the API is up to you.
 
-In the **assets** folder you can find the `pols.json` file, which contain some data that you can use to bootstrap your 
+In the **assets** folder you can find the `polls.json` file, which contain some data that you can use to bootstrap your 
 database. We expect the responses from your API to be compatible with the shape of the polls in that file.
 
 Your solution should be runnable locally using `docker-compose`. Don't forget to include all the dependencies of your 
