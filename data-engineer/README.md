@@ -105,5 +105,5 @@ Here are some pointers for you of things we will be looking for:
 
 Send an email with a link to your repository solution.
 
-We will review your solution, we strive to get back to you in **48 hours**. Sometimes it might take 
+We will review your solution, we strive to get back to you in **1 week**. Sometimes it might take 
 more.

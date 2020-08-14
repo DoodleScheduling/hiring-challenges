@@ -16,4 +16,4 @@ Send an email with a link to your repository solution to `code-challenge@doodle.
 Make sure your email has the following subject: `TL-<yourname>`. So for example, if your name were "Paul Smith", 
 your email subject would be `TL-Paul Smith`
 
-We will review your solution, we strive to get back to you in **48 hours**. Sometimes it might take more.
+We will review your solution, we strive to get back to you in **1 week**. Sometimes it might take more.
