@@ -14,7 +14,7 @@ and lists all messages reverse chronological order in a `GET` endpoint:
 curl https://chatty.kubernetes.doodle-test.com/api/chatty/v1.0/?token=
 [YOUR_AWESOME_UNIQUE_TOKEN]
 ```
-#### List 10 messages before a timestamp
+#### List 10 messages after a timestamp
 ```shell script
 curl https://chatty.kubernetes.doodle-test.com/api/chatty/v1.0/?
 since=1521096352339&limit=10&token=[YOUR_AWESOME_UNIQUE_TOKEN]
