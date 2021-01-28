@@ -12,15 +12,15 @@ Explore Doodle.com:
 2. How would you approach the quality strategy of a website like doodle.com?
 3. Did you find any bugs? If yes, write down one of them.
 4. Suggest 3 quality improvements that could be made to doodle.com that you observed.
-5. Given this UI, how would you design your automation framework using the Page Object Model? 
+5. Given this UI, how would you design your automation framework using the Page Object Model? Please share a github repo with a basic skeleton test setup. Nothing complicated, just one test case that we could run. For example, you could show us how you would test the functionality of creating and voting on a poll. You are free to create the test run in whatever way you feel is best, but some things we would look for are how you structure your Page Objects, and how you would automate the behaviors and make assertions.
+
 
 # Rules
 
 We respect your time and would not want you to spend more than **3 to 5 hours** on this challenge over the span 
 of **1 week** max. 
 
-Combine your answers into a text document (for example, PDF). If you want to provide a basic skeleton for part 2 Q5, 
-share a URL to a Github repository. 
+Combine your answers into a text document (for example, PDF). For part 2 Q5, share a URL to a Github repository. 
 
 # What we expect
 It is OK if the challenge is not complete/perfect. Try to **prioritize** it based on what you think is most important. 
