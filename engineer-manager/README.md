@@ -1,4 +1,4 @@
-# The challenge (Engineer Manager)
+# The challenge (Engineering Manager)
 
 As a Tech Lead you will be working closely with the entire team and when it comes to helping the 
 Product Manager, you will be their sparring partner, discussing what it takes to get the team's
