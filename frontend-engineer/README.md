@@ -7,7 +7,9 @@ all senders. Something like this:
 The assets and additional documentation can be found in the **assets** folder.
 
 For this, we have prepared a simple API which receives new messages in a `POST` endpoint
-and lists all messages reverse chronological order in a `GET` endpoint:
+and lists all messages reverse chronological order in a `GET` endpoint. Please use your personal `YOUR_AWESOME_UNIQUE_TOKEN`.
+
+You should've gotten the `YOUR_AWESOME_UNIQUE_TOKEN` via email. If not, please do not hesitate to get in touch and we'll provide you one.
 
 #### List all messages
 ```shell script
