@@ -14,4 +14,4 @@ Two newly formed Scrum Teams will work on products that share the same frontend 
 2. Your company is rapidly growing and you are responsible for hiring 2 fullstack engineers for your team. Unfortunately, for a couple of weeks, your pipeline is lacking promising candidates. You’ve shared the job ad with your friends and posted it on your LinkedIn dashboard but that did not help to attract more candidates. Provide 3 examples of concrete actions that you would take next to encourage more engineers to apply for that roles.
 # Delivery
 
-The presentation should take up to 20 minutes. At the end we will have an open conversation about your strategy to approach the challenge.
+The presentation should take up to 30 minutes. At the end we will have an open conversation about your strategy to approach the challenge.
