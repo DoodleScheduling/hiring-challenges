@@ -1,6 +1,7 @@
 # The challenge (Delivery Manager)
 ## User stories
-You have a Product Owner who is new to the role and needs help with writing good user stories. Please point out possible issues for each of the stories below:
+You have a Product Owner who is new to the role and needs help with writing good user stories. Please suggest improvements to the stories below, if any, and add any information you think might be missing.
+
 1. `As a user, I want to have the whole Doodle flow unified according to the latest design guidelines, so it feels more modern.`
 2. `As a participant, I want to get #28AD28 notification when submitting my option, so I am notified that my vote was successfully submitted`
 3. `As a Product Owner, I want to have an authentication on the poll creation page, so I can login to my account.`
