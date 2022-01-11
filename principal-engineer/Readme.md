@@ -5,7 +5,7 @@ Doodle is used by _organizers_ to schedule _meetings_ with _participants_: for t
 
 We’d like to enable organizers and participants of each meeting to message each other in a chat component, which is integrated both on the organizer and the participation frontend. 
 
-In order to constrain this scenario further, we only want to support messages with text content and all users are authenticated. However we do want chat participants to see new messages without reloading the page. Although there are typically only around 10 participants per meeting, the meeting service supports several 100’000s of meetings, with around 10’000 active users.
+In order to constrain this scenario further, we only want to support messages with text content and all users are authenticated. However we do want chat participants to see new messages without reloading the page. Although there are typically around 10 participants per meeting, the meeting service supports several 100’000s of meetings, with around 10’000 active users.
 
 # What we expect
 
