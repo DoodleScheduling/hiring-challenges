@@ -1,21 +1,21 @@
 # The challenge (Principal Engineer)
-You have two options, we have a challenge for engineers focused on the __Backend__ and another one
-if your are an experienced engineers building complex __Frontend__ applications. Please choose the 
-one that suits you better.
+Typically we have a frontend coding exercise at Doodle, in which the candidates implement a [chat application in Javascript](https://github.com/DoodleScheduling/hiring-challenges/tree/master/frontend-engineer/), with a provided design and a very simple polling API. However, for this leading position we want you to take it to the next level and focus on designing an architecture and communicating this architecture specification.
 
-If you have most of your experience on the __Backend__ please do this challenge here: [Backend challenge](https://github.com/DoodleScheduling/hiring-challenges/tree/master/backend-engineer). In case you have a stronger __Frontend__ background, 
-please do this one instead: [Frontend challenge](https://github.com/DoodleScheduling/hiring-challenges/tree/master/frontend-engineer).
+Doodle is used by organizers to schedule meetings with participants: for this, the organizer can create meetings with an organizer frontend. The participants can then vote on potential times of these meetings on a participation frontend. Both frontends are static client-side applications and use a REST-based meeting service to collect the preferences of the participants.
+
+We’d like to enable organizers and participants of each meeting to message each other in a chat component, which is integrated both on the organizer and the participation frontend. 
+
+In order to constrain this scenario further, we only want to support messages with text content and all users are authenticated. However we do want chat participants to see new messages without reloading the page. Although there are typically around 10 participants per meeting, the meeting service supports several 100’000s of meetings, with around 10’000 active users.
 
 # What we expect
 
-As a Principal Engineer at Doodle we fully expect you to be hands-on. So we would like to see how 
-you code. Once we have reviewed your code we will get into a more high-level and strategic
-conversation about how you would tackle some other problems that involve architecture and cross team
-challenges.
+Please write a short specification for the messaging system, with the following aspects:
 
-Send an email with a link to your repository solution to code-challenge@doodle.com.
+- Formalize requirements and quality goals
+- Provide a high-level system architecture diagram
+- Provide a high-level solution recommendation for a technical implementation
+- Provide a high-level overview of potential risks
 
-Make sure your email has the following subject: `PE-<yourname>`. So for example, if your name were 
-"Paul Smith", your email subject would be FE-Paul Smith
+We would then like for you to communicate this specification to potential relevant stakeholders in a 10-15 minute presentation, which serves as a starting point for a discussion.
 
-We will review your solution, we strive to get back to you in __1 week__. Sometimes it might take more.
+We understand your time is precious and would not want you to spend more than 3 to 5 hours on this over the span of 1 week max.
