@@ -12,9 +12,9 @@ In order to constrain this scenario further, we only want to support messages wi
 Please write a short specification for the messaging system, with the following aspects:
 
 - Formalize requirements and quality goals
-- Provide a high level system architecture diagram
-- Provide a high level solution recommendation for a technical implementation
-- Provide a high level overview of potential risks
+- Provide a high-level system architecture diagram
+- Provide a high-level solution recommendation for a technical implementation
+- Provide a high-level overview of potential risks
 
 We would then like for you to communicate this specification to potential relevant stakeholders in a 10-15 minute presentation, which serves as a starting point for a discussion.
 
