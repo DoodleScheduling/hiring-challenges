@@ -1,7 +1,7 @@
 # The challenge (Principal Engineer)
 Typically we have a frontend coding exercise at Doodle, in which the candidates implement a [chat application in Javascript](https://github.com/DoodleScheduling/hiring-challenges/tree/master/frontend-engineer/), with a provided design and a very simple polling API. However, for this leading position we want you to take it to the next level and focus on designing an architecture and communicating this architecture specification.
 
-Doodle is used by _organizers_ to schedule _meetings_ with _participants_: for this, the organizer can create meetings with an organizer frontend. The participants can then vote on potential times of these meetings on a participation frontend. Both frontends are static client-side applications and use a REST-based meeting service to collect the preferences of the participants.
+Doodle is used by organizers to schedule meetings with participants: for this, the organizer can create meetings with an organizer frontend. The participants can then vote on potential times of these meetings on a participation frontend. Both frontends are static client-side applications and use a REST-based meeting service to collect the preferences of the participants.
 
 We’d like to enable organizers and participants of each meeting to message each other in a chat component, which is integrated both on the organizer and the participation frontend. 
 
