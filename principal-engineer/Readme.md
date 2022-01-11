@@ -11,7 +11,7 @@ In order to constrain this scenario further, we only want to support text messag
 
 Please write a short specification for the messaging system, with the following aspects:
 
-- Formalize requirements and goals
+- Formalize requirements and quality goals
 - Provide a high level system architecture diagram
 - Provide a high level solution recommendation for a technical implementation
 - Provide a high level overview of potential risks
