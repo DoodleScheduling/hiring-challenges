@@ -7,20 +7,20 @@ Imagine these hypothetical scenarios and write down answers to these questions:
 3. Team you recently joined is confused about the role of the QA. How would you explain it to them in a few sentences?
 
 ## Part 2
-Explore Doodle.com:
-1. What, in your opinion, is the main business value functionality?
-2. How would you approach the quality strategy of a website like doodle.com?
-3. Did you find any bugs? If yes, write down one of them.
-4. Suggest 3 quality improvements that could be made to doodle.com that you observed.
-5. Given this UI, how would you design your automation framework using the Page Object Model? Please share a github repo with a basic skeleton test setup. Nothing complicated, just one test case that we could run. For example, you could show us how you would test the functionality of creating and voting on a poll. You are free to create the test run in whatever way you feel is best, but some things we would look for are how you structure your Page Objects, and how you would automate the behaviors and make assertions.
 
+Here comes the main part of this challenge... your automated testing skills. Use a programming language of your choice. 
+
+Head over to our [QA BE challenge repository](https://github.com/DoodleScheduling/qa-backend-challenge) for further instructions.
+
+P. S. In case you're not comfortable with API or performance testing, we have another option for you:
+Given the UI of doodle.com, how would you design your automation framework using the Page Object Model? Please share a github repo with a basic skeleton test setup. Nothing complicated, just one test case that we could run. For example, you could show us how you would test the functionality of creating and voting on a poll. You are free to create the test run in whatever way you feel is best, but some things we would look for are how you structure your Page Objects, and how you would automate the behaviors and make assertions.
 
 # Rules
 
-We respect your time and would not want you to spend more than **3 to 5 hours** on this challenge over the span 
+We value your time and respect your time management on how much time you want to spend on this task. We would ask you to complete this challenge over the span 
 of **1 week** max. 
 
-Combine your answers into a text document (for example, PDF). For part 2 Q5, share a URL to a Github repository. 
+Combine your answers into a text document (for example, PDF). For part 2, share a URL to a Github repository. 
 
 # What we expect
 It is OK if the challenge is not complete/perfect. Try to **prioritize** it based on what you think is most important. 
