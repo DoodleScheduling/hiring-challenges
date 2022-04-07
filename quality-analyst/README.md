@@ -12,9 +12,6 @@ Here comes the main part of this challenge... your automated testing skills. Use
 
 Head over to our [QA BE challenge repository](https://github.com/DoodleScheduling/qa-backend-challenge) for further instructions.
 
-P. S. In case you're not comfortable with API or performance testing, we have another option for you:
-Given the UI of doodle.com, how would you design your automation framework using the Page Object Model? Please share a github repo with a basic skeleton test setup. Nothing complicated, just one test case that we could run. For example, you could show us how you would test the functionality of creating and voting on a poll. You are free to create the test run in whatever way you feel is best, but some things we would look for are how you structure your Page Objects, and how you would automate the behaviors and make assertions.
-
 # Rules
 
 We value your time and respect your time management on how much time you want to spend on this task. We would ask you to complete this challenge over the span 
