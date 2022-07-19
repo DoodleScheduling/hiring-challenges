@@ -1,8 +1,8 @@
-# The challenge (Customer Success Operations Manager)
+# The challenge (Revenue Operations Manager)
 
 Adventure Works Cycles, a large wholesaler of bicycles in the US and Europe, have approached you as their 
- customer success operations manager to help them analyse their ~ 400 customer base.  They would like to better 
- understand their customer base, who is doing well and who might need support from a Customer Success Manager.
+ revenue operations manager to help them analyse their ~ 400 customer base.  They would like to better 
+ understand their customer base, and identify opportunities to increase revenue.
 
 The company’s IT department has provided you with the company’s sales data over the last few years.
 In the absence of any consultation with the business, you will need to examine this data on your own and decide 
@@ -18,10 +18,10 @@ Here, we make a condensed version available in a large CSV contained inside `adv
 As an outcome of this test, we expect you to send us two documents:
 
 1. A PDF slide deck (<10 slides) detailing your strategic assement of the customer base to be presented to
- AdventureWorks' head of customer success. 
+ AdventureWorks' head of customer experience. 
 It should be self-sufficient, i.e. must be understandable by the reader without any further comments.
 2. Any supporting analysis done to produce all figures/graphs that appear in your presentation 
-(jupyter notebook, excel sheet, sql queries etc)
+(excel sheet, sql queries etc)
 
 As this is based on an open dataset, please refrain from trying to find pre-made solutions 
 online as we would like you to present your own, not someone else's work.
@@ -39,6 +39,6 @@ Send an email with a link to your repository solution.
 It will be assessed based on:
 - Your ability to distill strategic recommendations from a large(-ish) data set.
 - Your ability to communicate your insights in a clear and simple manner to a target-audience.
-- Your ability with data analysis.
+- Your ability to align customer data with key SaaS metrics.
 
-We will review your solution, we strive to get back to you in **1 week**. Sometimes it might take more.
+We will review your solution, we strive to get back to you in **1 week**.
