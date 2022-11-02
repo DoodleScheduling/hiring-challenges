@@ -4,7 +4,7 @@ In order to test your skills and knowledge, as well as to give you an idea of ho
 
 ## Summary
 
-This challenge includes setting up [Keycloak IAM](https://www.keycloak.org/getting-started/getting-started-kube) (Identity Access and Management) with [Infinispan](https://infinispan.org/blog/2018/11/19/quick-start-infinispan-on-kubernetes) caching system. This represents a simplified version of our own authentication system which involves using a high availability caching system. The authentication service (Keycloak) persists user sessions within Infinispan, using it as a remote store for the session entries.
+This challenge includes setting up [Keycloak IAM](https://www.keycloak.org/guides#getting-started) (Identity Access and Management) with Infinispan caching system. This represents a simplified version of our own authentication system which involves using a high availability caching system. The authentication service (Keycloak) persists user sessions within Infinispan, using it as a remote store for the session entries.
 
 We are looking for a solution deployed on a Kubernetes cluster. You are free to choose which Kubernetes cluster you are testing with (we recommend a local kind of cluster).
 
@@ -35,8 +35,3 @@ A ready to deploy solution for Kubernetes, with all required Keycloak and Infini
 - Configure custom Infinispan logging (enable debug mode for some components and/or all)
 - Add a custom provider https://github.com/aerogear/keycloak-metrics-spi and deploy it to the Keycloak server
 - Expose Keycloak for access outside of your cluster
-
-## References
-
-- [https://blog.flant.com/ha-keycloak-infinispan-kubernetes/](https://blog.flant.com/ha-keycloak-infinispan-kubernetes/)
-- [https://docs.jboss.org/infinispan/13.0/configdocs/](https://docs.jboss.org/infinispan/13.0/configdocs/)
