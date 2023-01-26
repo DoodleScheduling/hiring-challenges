@@ -1,6 +1,6 @@
 # The challenge (Frontend Engineer)
 
-We would like you to build a simple chat interface in Javascript, which is able to send and display messages from
+We would like you to build a simple chat interface in Javascript (Typescript is allowed), which is able to send and display messages from
 all senders. Something like this:
 
 <img src="chat.png" width="400" alt="chat" />
@@ -40,7 +40,7 @@ https://chatty.doodle-test.com/api/chatty/v1.0
 We understand your time is precious and would not want you to spend more than **3 to 5 hours** on this over the span
 of **one week** max. The outcome should be runnable locally on a UNIX-flavored OS (MacOS, Linux) in a common browser.
 
-You must use **JavaScript** (Vanilla JS, React, ...). We want you to provide a responsive
+You must use **JavaScript** (Vanilla JS, React, ...). Typescript is allowed. We want you to provide a responsive
 implementation. Keep in mind that Doodle is used worldwide and has to work on commonly
 used browsers.
 
