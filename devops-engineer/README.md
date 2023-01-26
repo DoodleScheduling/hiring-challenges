@@ -1,4 +1,4 @@
-# Java/DevOps Challenge
+# DevOps Challenge
 
 In order to test your skills and knowledge, as well as to give you an idea of how we work end-to-end, we ask you to complete the following challenge.  
 
@@ -23,7 +23,7 @@ The final solution we would like to see, is a Git repository with all necessary 
 
 We expect that you do **not spend more than 8 hours** over a time span of one week on this challenge.
 
-Even if you do not meet all expectations, please send in your solution.
+Even if you do not meet all expectations, please send in your solution!
 
 ## Solution output
 
