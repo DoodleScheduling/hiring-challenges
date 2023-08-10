@@ -1,0 +1,3202 @@
+[
+    {
+        "CustomerID": 8220,
+        "Name": "Brandon Bender",
+        "Region": "North",
+        "SignUpDate": "2023-08-14",
+        "Email": "mirandajoel@example.org",
+        "LoyaltyPoints": 129
+    },
+    {
+        "CustomerID": 6670,
+        "Name": "Kari Ford",
+        "Region": "North",
+        "SignUpDate": "2020-03-02",
+        "Email": "brucewesley@example.org",
+        "LoyaltyPoints": 528
+    },
+    {
+        "CustomerID": 9865,
+        "Name": "Andrea Leonard",
+        "Region": null,
+        "SignUpDate": "2020-11-26",
+        "Email": "newmantimothy@example.com",
+        "LoyaltyPoints": 2182
+    },
+    {
+        "CustomerID": 5082,
+        "Name": "Christina Mcdowell",
+        "Region": null,
+        "SignUpDate": "2022-12-07",
+        "Email": "smithdouglas@example.com",
+        "LoyaltyPoints": 3091
+    },
+    {
+        "CustomerID": 3737,
+        "Name": "Kevin Martin",
+        "Region": "South",
+        "SignUpDate": "2019-11-02",
+        "Email": "pinedakelli@example.net",
+        "LoyaltyPoints": 1156
+    },
+    {
+        "CustomerID": 6003,
+        "Name": "Jason Bates",
+        "Region": "North",
+        "SignUpDate": "2020-02-13",
+        "Email": "eric27@example.org",
+        "LoyaltyPoints": 4612
+    },
+    {
+        "CustomerID": 7327,
+        "Name": "Kathleen Aguilar",
+        "Region": "West",
+        "SignUpDate": "2022-08-29",
+        "Email": "pattonthomas@example.net",
+        "LoyaltyPoints": 1392
+    },
+    {
+        "CustomerID": 8202,
+        "Name": "Kelly Kim",
+        "Region": null,
+        "SignUpDate": "2019-08-31",
+        "Email": "roberthammond@example.net",
+        "LoyaltyPoints": 844
+    },
+    {
+        "CustomerID": 8949,
+        "Name": "Robert Scott",
+        "Region": null,
+        "SignUpDate": "2021-07-19",
+        "Email": "parklisa@example.org",
+        "LoyaltyPoints": 4754
+    },
+    {
+        "CustomerID": 5412,
+        "Name": "Sarah Terrell",
+        "Region": null,
+        "SignUpDate": "2022-05-30",
+        "Email": "millerjason@example.com",
+        "LoyaltyPoints": 311
+    },
+    {
+        "CustomerID": 4594,
+        "Name": "Anita Cantu",
+        "Region": "East",
+        "SignUpDate": "2021-03-18",
+        "Email": "qjones@example.org",
+        "LoyaltyPoints": 3492
+    },
+    {
+        "CustomerID": 4307,
+        "Name": "Cory Tanner",
+        "Region": "West",
+        "SignUpDate": "2022-11-13",
+        "Email": "loriward@example.org",
+        "LoyaltyPoints": 4219
+    },
+    {
+        "CustomerID": 7900,
+        "Name": "Kevin Turner",
+        "Region": "East",
+        "SignUpDate": "2023-02-26",
+        "Email": "victorayala@example.net",
+        "LoyaltyPoints": 3870
+    },
+    {
+        "CustomerID": 6468,
+        "Name": "Anthony Martin",
+        "Region": null,
+        "SignUpDate": "2023-04-04",
+        "Email": "reevesgeorge@example.net",
+        "LoyaltyPoints": 498
+    },
+    {
+        "CustomerID": 2435,
+        "Name": "Brittany Robinson",
+        "Region": "West",
+        "SignUpDate": "2021-12-09",
+        "Email": "jamie64@example.net",
+        "LoyaltyPoints": 2494
+    },
+    {
+        "CustomerID": 7914,
+        "Name": "Kenneth Hernandez",
+        "Region": null,
+        "SignUpDate": "2020-10-28",
+        "Email": "robert94@example.net",
+        "LoyaltyPoints": 931
+    },
+    {
+        "CustomerID": 7149,
+        "Name": "Edward Hood",
+        "Region": "West",
+        "SignUpDate": "2019-01-21",
+        "Email": "natalie73@example.com",
+        "LoyaltyPoints": 1354
+    },
+    {
+        "CustomerID": 7234,
+        "Name": "Benjamin Foster",
+        "Region": null,
+        "SignUpDate": "2022-09-09",
+        "Email": "richardwoods@example.com",
+        "LoyaltyPoints": 4845
+    },
+    {
+        "CustomerID": 7054,
+        "Name": "Hannah Jackson",
+        "Region": "West",
+        "SignUpDate": "2022-08-24",
+        "Email": "solisjessica@example.net",
+        "LoyaltyPoints": 849
+    },
+    {
+        "CustomerID": 1440,
+        "Name": "Robert Brown",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "karen44@example.net",
+        "LoyaltyPoints": 4776
+    },
+    {
+        "CustomerID": 6416,
+        "Name": "Tiffany Hart",
+        "Region": null,
+        "SignUpDate": "2024-07-14",
+        "Email": "matthewcook@example.com",
+        "LoyaltyPoints": 3752
+    },
+    {
+        "CustomerID": 5382,
+        "Name": "Joseph Aguilar",
+        "Region": null,
+        "SignUpDate": "2020-09-11",
+        "Email": "nathan06@example.org",
+        "LoyaltyPoints": 361
+    },
+    {
+        "CustomerID": 4419,
+        "Name": "Wanda Black",
+        "Region": "West",
+        "SignUpDate": "2022-12-29",
+        "Email": "anthonysusan@example.com",
+        "LoyaltyPoints": 3977
+    },
+    {
+        "CustomerID": 4597,
+        "Name": "Bradley Lozano",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "michelle32@example.com",
+        "LoyaltyPoints": 4091
+    },
+    {
+        "CustomerID": 3292,
+        "Name": "Lisa Jones",
+        "Region": "South",
+        "SignUpDate": "2024-07-15",
+        "Email": "ucastaneda@example.org",
+        "LoyaltyPoints": 4601
+    },
+    {
+        "CustomerID": 9766,
+        "Name": "Sarah Williams",
+        "Region": "North",
+        "SignUpDate": "2021-10-01",
+        "Email": "mmercado@example.net",
+        "LoyaltyPoints": 580
+    },
+    {
+        "CustomerID": 6147,
+        "Name": "Robert Reed",
+        "Region": "West",
+        "SignUpDate": "2022-10-20",
+        "Email": "johnsonlinda@example.com",
+        "LoyaltyPoints": 3493
+    },
+    {
+        "CustomerID": 6575,
+        "Name": "Michael Curtis",
+        "Region": null,
+        "SignUpDate": "2021-08-23",
+        "Email": "robert10@example.org",
+        "LoyaltyPoints": 1609
+    },
+    {
+        "CustomerID": 9971,
+        "Name": "Kathryn Anderson",
+        "Region": "East",
+        "SignUpDate": "2019-01-12",
+        "Email": "uward@example.com",
+        "LoyaltyPoints": 2362
+    },
+    {
+        "CustomerID": 7498,
+        "Name": "Jacob Mitchell",
+        "Region": "East",
+        "SignUpDate": "2023-07-28",
+        "Email": "david90@example.org",
+        "LoyaltyPoints": 4374
+    },
+    {
+        "CustomerID": 7052,
+        "Name": "Erica Cox",
+        "Region": "East",
+        "SignUpDate": "2024-06-21",
+        "Email": "kfrey@example.org",
+        "LoyaltyPoints": 4452
+    },
+    {
+        "CustomerID": 7694,
+        "Name": "Jeremy Flowers",
+        "Region": "South",
+        "SignUpDate": "2024-07-29",
+        "Email": "wmoreno@example.net",
+        "LoyaltyPoints": 4810
+    },
+    {
+        "CustomerID": 8882,
+        "Name": "Kayla Ramsey",
+        "Region": null,
+        "SignUpDate": "2019-06-26",
+        "Email": "iflowers@example.org",
+        "LoyaltyPoints": 3844
+    },
+    {
+        "CustomerID": 8997,
+        "Name": "Justin Aguirre",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "rogerssue@example.net",
+        "LoyaltyPoints": 4277
+    },
+    {
+        "CustomerID": 6815,
+        "Name": "Scott Jacobs",
+        "Region": "West",
+        "SignUpDate": "2021-04-30",
+        "Email": "ghull@example.net",
+        "LoyaltyPoints": 3794
+    },
+    {
+        "CustomerID": 2406,
+        "Name": "Christopher Merritt",
+        "Region": null,
+        "SignUpDate": "2023-09-19",
+        "Email": "heather34@example.org",
+        "LoyaltyPoints": 1295
+    },
+    {
+        "CustomerID": 6177,
+        "Name": "Amber Roman",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "matthew96@example.net",
+        "LoyaltyPoints": 4724
+    },
+    {
+        "CustomerID": 3724,
+        "Name": "James Roberts",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "ericmccall@example.org",
+        "LoyaltyPoints": 4997
+    },
+    {
+        "CustomerID": 8421,
+        "Name": "Jennifer Dickerson",
+        "Region": null,
+        "SignUpDate": "2022-04-24",
+        "Email": "kgreen@example.com",
+        "LoyaltyPoints": 2581
+    },
+    {
+        "CustomerID": 5058,
+        "Name": "Brooke Martin",
+        "Region": null,
+        "SignUpDate": "2019-12-14",
+        "Email": "hallsusan@example.com",
+        "LoyaltyPoints": 4455
+    },
+    {
+        "CustomerID": 4379,
+        "Name": "Jeremy Pierce",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "velasquezmargaret@example.com",
+        "LoyaltyPoints": 3976
+    },
+    {
+        "CustomerID": 7221,
+        "Name": "Tina Schwartz",
+        "Region": "East",
+        "SignUpDate": "2023-01-11",
+        "Email": "rshaffer@example.org",
+        "LoyaltyPoints": 2480
+    },
+    {
+        "CustomerID": 1427,
+        "Name": "Kathryn Thomas",
+        "Region": null,
+        "SignUpDate": "2022-04-03",
+        "Email": "allisonfrost@example.org",
+        "LoyaltyPoints": 4001
+    },
+    {
+        "CustomerID": 9857,
+        "Name": "Lindsay Adams",
+        "Region": "West",
+        "SignUpDate": "2022-08-17",
+        "Email": "monica21@example.com",
+        "LoyaltyPoints": 1886
+    },
+    {
+        "CustomerID": 8247,
+        "Name": "Austin Petersen",
+        "Region": "East",
+        "SignUpDate": "2023-08-21",
+        "Email": "mmcgrath@example.net",
+        "LoyaltyPoints": 4279
+    },
+    {
+        "CustomerID": 3394,
+        "Name": "Grace Gregory",
+        "Region": null,
+        "SignUpDate": "2018-08-17",
+        "Email": "nicole38@example.org",
+        "LoyaltyPoints": 144
+    },
+    {
+        "CustomerID": 6950,
+        "Name": "Cynthia Hines",
+        "Region": null,
+        "SignUpDate": "2022-03-15",
+        "Email": "pfisher@example.net",
+        "LoyaltyPoints": 4247
+    },
+    {
+        "CustomerID": 5084,
+        "Name": "Patricia Deleon",
+        "Region": "West",
+        "SignUpDate": "2023-08-31",
+        "Email": "bgarza@example.com",
+        "LoyaltyPoints": 4643
+    },
+    {
+        "CustomerID": 3022,
+        "Name": "Jodi Gates",
+        "Region": "South",
+        "SignUpDate": "2021-12-21",
+        "Email": "bclark@example.com",
+        "LoyaltyPoints": 913
+    },
+    {
+        "CustomerID": 7760,
+        "Name": "Christopher Jones",
+        "Region": "East",
+        "SignUpDate": "2020-01-23",
+        "Email": "lindahunt@example.org",
+        "LoyaltyPoints": 1040
+    },
+    {
+        "CustomerID": 5394,
+        "Name": "Alyssa Romero",
+        "Region": null,
+        "SignUpDate": "2023-01-06",
+        "Email": "mcintyrerobert@example.com",
+        "LoyaltyPoints": 249
+    },
+    {
+        "CustomerID": 5724,
+        "Name": "Crystal Dean",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "seanthompson@example.org",
+        "LoyaltyPoints": 3419
+    },
+    {
+        "CustomerID": 6107,
+        "Name": "Alexandra Carter",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "jackiedelgado@example.net",
+        "LoyaltyPoints": 4965
+    },
+    {
+        "CustomerID": 9187,
+        "Name": "Jessica Graham",
+        "Region": "East",
+        "SignUpDate": "2021-01-18",
+        "Email": "friedmanchristopher@example.net",
+        "LoyaltyPoints": 3432
+    },
+    {
+        "CustomerID": 6495,
+        "Name": "Dr. Amanda Solis",
+        "Region": "West",
+        "SignUpDate": "2023-01-26",
+        "Email": "richardpeters@example.net",
+        "LoyaltyPoints": 2713
+    },
+    {
+        "CustomerID": 9489,
+        "Name": "Cheryl Holmes",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "heather21@example.net",
+        "LoyaltyPoints": 2706
+    },
+    {
+        "CustomerID": 8895,
+        "Name": "Seth Jones",
+        "Region": null,
+        "SignUpDate": "2018-09-13",
+        "Email": "benjamin93@example.org",
+        "LoyaltyPoints": 3652
+    },
+    {
+        "CustomerID": 3934,
+        "Name": "Amanda Shaw",
+        "Region": "West",
+        "SignUpDate": "2021-04-02",
+        "Email": "batesdawn@example.net",
+        "LoyaltyPoints": 2807
+    },
+    {
+        "CustomerID": 4481,
+        "Name": "Randy Walls",
+        "Region": null,
+        "SignUpDate": "2018-10-02",
+        "Email": "millermegan@example.net",
+        "LoyaltyPoints": 2829
+    },
+    {
+        "CustomerID": 8064,
+        "Name": "Alicia Bryant",
+        "Region": null,
+        "SignUpDate": "2019-04-13",
+        "Email": "deborah56@example.com",
+        "LoyaltyPoints": 778
+    },
+    {
+        "CustomerID": 1511,
+        "Name": "Jerry Thornton",
+        "Region": "South",
+        "SignUpDate": "2019-06-07",
+        "Email": "adamseric@example.net",
+        "LoyaltyPoints": 2783
+    },
+    {
+        "CustomerID": 9089,
+        "Name": "Kathy Vaughan",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "fisherleslie@example.net",
+        "LoyaltyPoints": 1359
+    },
+    {
+        "CustomerID": 4756,
+        "Name": "Carolyn Reynolds",
+        "Region": "West",
+        "SignUpDate": "2019-10-19",
+        "Email": "emason@example.net",
+        "LoyaltyPoints": 4716
+    },
+    {
+        "CustomerID": 7317,
+        "Name": "Donald Thomas",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "john22@example.net",
+        "LoyaltyPoints": 4758
+    },
+    {
+        "CustomerID": 8462,
+        "Name": "Jason Delacruz",
+        "Region": "East",
+        "SignUpDate": "2018-09-07",
+        "Email": "gonzalezkristopher@example.com",
+        "LoyaltyPoints": 3177
+    },
+    {
+        "CustomerID": 5624,
+        "Name": "Timothy Odonnell",
+        "Region": "West",
+        "SignUpDate": "2020-12-06",
+        "Email": "dbanks@example.net",
+        "LoyaltyPoints": 2740
+    },
+    {
+        "CustomerID": 5210,
+        "Name": "Travis Stewart",
+        "Region": "West",
+        "SignUpDate": "2021-09-18",
+        "Email": "ronald66@example.net",
+        "LoyaltyPoints": 2308
+    },
+    {
+        "CustomerID": 5209,
+        "Name": "Tina Jackson",
+        "Region": "East",
+        "SignUpDate": "2024-03-05",
+        "Email": "bryanbradley@example.net",
+        "LoyaltyPoints": 1086
+    },
+    {
+        "CustomerID": 4883,
+        "Name": "Timothy Jenkins",
+        "Region": "East",
+        "SignUpDate": "2020-07-05",
+        "Email": "angela51@example.net",
+        "LoyaltyPoints": 1358
+    },
+    {
+        "CustomerID": 5110,
+        "Name": "Jerry Malone",
+        "Region": "West",
+        "SignUpDate": "2019-05-21",
+        "Email": "alexandragarrison@example.net",
+        "LoyaltyPoints": 391
+    },
+    {
+        "CustomerID": 1950,
+        "Name": "Nicole Gray",
+        "Region": "West",
+        "SignUpDate": "2023-07-16",
+        "Email": "lopeztiffany@example.com",
+        "LoyaltyPoints": 3054
+    },
+    {
+        "CustomerID": 5775,
+        "Name": "Joshua Schroeder",
+        "Region": "North",
+        "SignUpDate": "2023-11-27",
+        "Email": "gmoyer@example.org",
+        "LoyaltyPoints": 4977
+    },
+    {
+        "CustomerID": 1886,
+        "Name": "Charles Anderson",
+        "Region": null,
+        "SignUpDate": "2021-10-05",
+        "Email": "richandrew@example.org",
+        "LoyaltyPoints": 1104
+    },
+    {
+        "CustomerID": 6138,
+        "Name": "Louis Daniel",
+        "Region": null,
+        "SignUpDate": "2021-09-02",
+        "Email": "uhall@example.org",
+        "LoyaltyPoints": 1679
+    },
+    {
+        "CustomerID": 5926,
+        "Name": "Jennifer Brooks",
+        "Region": "West",
+        "SignUpDate": "2023-09-07",
+        "Email": "sonia22@example.com",
+        "LoyaltyPoints": 4985
+    },
+    {
+        "CustomerID": 1341,
+        "Name": "Grant Palmer",
+        "Region": "East",
+        "SignUpDate": "2024-03-07",
+        "Email": "kimkatherine@example.com",
+        "LoyaltyPoints": 3419
+    },
+    {
+        "CustomerID": 9510,
+        "Name": "Michelle Taylor",
+        "Region": null,
+        "SignUpDate": "2020-11-22",
+        "Email": "ystanton@example.org",
+        "LoyaltyPoints": 3329
+    },
+    {
+        "CustomerID": 1448,
+        "Name": "Melissa Moreno",
+        "Region": "North",
+        "SignUpDate": "2023-11-03",
+        "Email": "stonemichael@example.com",
+        "LoyaltyPoints": 334
+    },
+    {
+        "CustomerID": 1981,
+        "Name": "Rodney Harvey",
+        "Region": "South",
+        "SignUpDate": "2023-11-21",
+        "Email": "jramirez@example.org",
+        "LoyaltyPoints": 2089
+    },
+    {
+        "CustomerID": 5884,
+        "Name": "Madison Jones",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "roger07@example.com",
+        "LoyaltyPoints": 4427
+    },
+    {
+        "CustomerID": 6335,
+        "Name": "Christine Swanson",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "pschmidt@example.org",
+        "LoyaltyPoints": 3839
+    },
+    {
+        "CustomerID": 1126,
+        "Name": "Nicholas Cooke",
+        "Region": "North",
+        "SignUpDate": "2022-01-27",
+        "Email": "fjackson@example.com",
+        "LoyaltyPoints": 1927
+    },
+    {
+        "CustomerID": 1635,
+        "Name": "Brandon Smith",
+        "Region": "West",
+        "SignUpDate": "2021-11-16",
+        "Email": "lopezdouglas@example.org",
+        "LoyaltyPoints": 2769
+    },
+    {
+        "CustomerID": 2666,
+        "Name": "Vanessa Miller",
+        "Region": null,
+        "SignUpDate": "2022-06-16",
+        "Email": "harrisdeanna@example.org",
+        "LoyaltyPoints": 2695
+    },
+    {
+        "CustomerID": 6531,
+        "Name": "Steven Stephens",
+        "Region": "West",
+        "SignUpDate": "2024-04-11",
+        "Email": "rlane@example.com",
+        "LoyaltyPoints": 4187
+    },
+    {
+        "CustomerID": 6946,
+        "Name": "Mackenzie Li",
+        "Region": null,
+        "SignUpDate": "2023-06-05",
+        "Email": "tony84@example.com",
+        "LoyaltyPoints": 2944
+    },
+    {
+        "CustomerID": 8666,
+        "Name": "Brian Lopez",
+        "Region": "North",
+        "SignUpDate": "2020-12-10",
+        "Email": "dwyatt@example.net",
+        "LoyaltyPoints": 4744
+    },
+    {
+        "CustomerID": 5401,
+        "Name": "Justin Arnold",
+        "Region": "North",
+        "SignUpDate": "2024-06-05",
+        "Email": "sean18@example.org",
+        "LoyaltyPoints": 2024
+    },
+    {
+        "CustomerID": 1512,
+        "Name": "Brendan Cochran",
+        "Region": "East",
+        "SignUpDate": "2021-06-03",
+        "Email": "brockjade@example.org",
+        "LoyaltyPoints": 4868
+    },
+    {
+        "CustomerID": 9898,
+        "Name": "Pamela Santos",
+        "Region": "East",
+        "SignUpDate": "2023-09-03",
+        "Email": "olivia70@example.net",
+        "LoyaltyPoints": 3819
+    },
+    {
+        "CustomerID": 1676,
+        "Name": "Craig Pearson",
+        "Region": null,
+        "SignUpDate": "2020-02-21",
+        "Email": "april69@example.org",
+        "LoyaltyPoints": 2384
+    },
+    {
+        "CustomerID": 9071,
+        "Name": "Kathy Atkinson",
+        "Region": "South",
+        "SignUpDate": "2021-07-10",
+        "Email": "ldavis@example.org",
+        "LoyaltyPoints": 4003
+    },
+    {
+        "CustomerID": 9155,
+        "Name": "Thomas Campbell",
+        "Region": "North",
+        "SignUpDate": "2022-03-07",
+        "Email": "austinmills@example.com",
+        "LoyaltyPoints": 1244
+    },
+    {
+        "CustomerID": 9150,
+        "Name": "Michael Schmidt",
+        "Region": null,
+        "SignUpDate": "2020-09-01",
+        "Email": "seanrice@example.org",
+        "LoyaltyPoints": 3269
+    },
+    {
+        "CustomerID": 2934,
+        "Name": "Richard Odonnell",
+        "Region": "South",
+        "SignUpDate": "2019-02-16",
+        "Email": "ztorres@example.org",
+        "LoyaltyPoints": 1554
+    },
+    {
+        "CustomerID": 4190,
+        "Name": "Timothy Holt",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "alexandra20@example.net",
+        "LoyaltyPoints": 2422
+    },
+    {
+        "CustomerID": 7375,
+        "Name": "Jerry Young",
+        "Region": "South",
+        "SignUpDate": "2023-04-01",
+        "Email": "osnyder@example.com",
+        "LoyaltyPoints": 1385
+    },
+    {
+        "CustomerID": 3268,
+        "Name": "Jesse Cooper II",
+        "Region": "North",
+        "SignUpDate": "2020-10-26",
+        "Email": "erica74@example.org",
+        "LoyaltyPoints": 4373
+    },
+    {
+        "CustomerID": 7409,
+        "Name": "James Sanders",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "melanie22@example.net",
+        "LoyaltyPoints": 1120
+    },
+    {
+        "CustomerID": 8130,
+        "Name": "Shannon Bryant",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "fhaley@example.org",
+        "LoyaltyPoints": 2575
+    },
+    {
+        "CustomerID": 6039,
+        "Name": "Marissa Yu",
+        "Region": "North",
+        "SignUpDate": "2018-10-20",
+        "Email": "webbjonathon@example.com",
+        "LoyaltyPoints": 1526
+    },
+    {
+        "CustomerID": 2591,
+        "Name": "Angela Potter",
+        "Region": "East",
+        "SignUpDate": "2023-07-29",
+        "Email": "richardsondonald@example.com",
+        "LoyaltyPoints": 4665
+    },
+    {
+        "CustomerID": 2612,
+        "Name": "Jessica Rodriguez",
+        "Region": null,
+        "SignUpDate": "2022-05-30",
+        "Email": "michaelhoffman@example.org",
+        "LoyaltyPoints": 1690
+    },
+    {
+        "CustomerID": 9202,
+        "Name": "Lisa Johnson",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "aarongates@example.org",
+        "LoyaltyPoints": 1218
+    },
+    {
+        "CustomerID": 4513,
+        "Name": "Angela Rosales",
+        "Region": "West",
+        "SignUpDate": "2023-11-26",
+        "Email": "scottgina@example.com",
+        "LoyaltyPoints": 3186
+    },
+    {
+        "CustomerID": 3150,
+        "Name": "David Wright",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "pattersondeanna@example.net",
+        "LoyaltyPoints": 2906
+    },
+    {
+        "CustomerID": 6493,
+        "Name": "Sandra Lawrence",
+        "Region": "West",
+        "SignUpDate": "2023-11-12",
+        "Email": "gina92@example.org",
+        "LoyaltyPoints": 4584
+    },
+    {
+        "CustomerID": 6865,
+        "Name": "Anna Russo",
+        "Region": "East",
+        "SignUpDate": "2023-01-25",
+        "Email": "mwest@example.net",
+        "LoyaltyPoints": 2029
+    },
+    {
+        "CustomerID": 2927,
+        "Name": "Valerie Myers",
+        "Region": "West",
+        "SignUpDate": "2020-12-10",
+        "Email": "stacey46@example.com",
+        "LoyaltyPoints": 807
+    },
+    {
+        "CustomerID": 5143,
+        "Name": "Jacqueline Torres",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "mendezcatherine@example.net",
+        "LoyaltyPoints": 2933
+    },
+    {
+        "CustomerID": 9185,
+        "Name": "Robert Lopez",
+        "Region": null,
+        "SignUpDate": "2021-11-02",
+        "Email": "megan05@example.net",
+        "LoyaltyPoints": 2252
+    },
+    {
+        "CustomerID": 8583,
+        "Name": "Stephen Warner",
+        "Region": "North",
+        "SignUpDate": "2023-12-28",
+        "Email": "khanbrittany@example.org",
+        "LoyaltyPoints": 1730
+    },
+    {
+        "CustomerID": 5244,
+        "Name": "Jeffrey Johnson",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "alexa75@example.org",
+        "LoyaltyPoints": 1490
+    },
+    {
+        "CustomerID": 7889,
+        "Name": "Deborah Mitchell",
+        "Region": "East",
+        "SignUpDate": "2023-07-04",
+        "Email": "wesley48@example.com",
+        "LoyaltyPoints": 4143
+    },
+    {
+        "CustomerID": 7651,
+        "Name": "Raymond Everett",
+        "Region": "South",
+        "SignUpDate": "2019-06-11",
+        "Email": "nicolegiles@example.org",
+        "LoyaltyPoints": 2815
+    },
+    {
+        "CustomerID": 6165,
+        "Name": "Kerry Garcia",
+        "Region": "West",
+        "SignUpDate": "2023-04-03",
+        "Email": "lori63@example.org",
+        "LoyaltyPoints": 1050
+    },
+    {
+        "CustomerID": 7741,
+        "Name": "Richard Carson",
+        "Region": "West",
+        "SignUpDate": "2020-10-28",
+        "Email": "mary16@example.org",
+        "LoyaltyPoints": 159
+    },
+    {
+        "CustomerID": 5696,
+        "Name": "Adam Odonnell",
+        "Region": "West",
+        "SignUpDate": "2019-04-07",
+        "Email": "stephanie27@example.com",
+        "LoyaltyPoints": 1409
+    },
+    {
+        "CustomerID": 1818,
+        "Name": "Mary Higgins",
+        "Region": "West",
+        "SignUpDate": "2019-02-20",
+        "Email": "schultzmegan@example.com",
+        "LoyaltyPoints": 432
+    },
+    {
+        "CustomerID": 5851,
+        "Name": "Colleen Sanders",
+        "Region": "South",
+        "SignUpDate": "2022-01-28",
+        "Email": "robertotucker@example.org",
+        "LoyaltyPoints": 3755
+    },
+    {
+        "CustomerID": 8512,
+        "Name": "Carrie Sanders",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "charlesscott@example.net",
+        "LoyaltyPoints": 3246
+    },
+    {
+        "CustomerID": 4914,
+        "Name": "Alvin Ryan",
+        "Region": null,
+        "SignUpDate": "2020-04-23",
+        "Email": "melissa45@example.net",
+        "LoyaltyPoints": 3063
+    },
+    {
+        "CustomerID": 4957,
+        "Name": "Pam Holmes",
+        "Region": "East",
+        "SignUpDate": "2019-01-10",
+        "Email": "corey92@example.org",
+        "LoyaltyPoints": 246
+    },
+    {
+        "CustomerID": 1758,
+        "Name": "Chad Johnson",
+        "Region": "West",
+        "SignUpDate": "2021-05-30",
+        "Email": "eric72@example.net",
+        "LoyaltyPoints": 3794
+    },
+    {
+        "CustomerID": 5117,
+        "Name": "Harold Mann",
+        "Region": "East",
+        "SignUpDate": "2019-08-26",
+        "Email": "bbarrett@example.org",
+        "LoyaltyPoints": 3800
+    },
+    {
+        "CustomerID": 9435,
+        "Name": "Mrs. Amy Torres",
+        "Region": "East",
+        "SignUpDate": "2020-08-11",
+        "Email": "rbray@example.com",
+        "LoyaltyPoints": 4535
+    },
+    {
+        "CustomerID": 9203,
+        "Name": "Scott Parsons",
+        "Region": "North",
+        "SignUpDate": "2019-05-17",
+        "Email": "villarreallisa@example.org",
+        "LoyaltyPoints": 3131
+    },
+    {
+        "CustomerID": 6685,
+        "Name": "Mark Irwin",
+        "Region": null,
+        "SignUpDate": "2023-01-30",
+        "Email": "dfernandez@example.com",
+        "LoyaltyPoints": 2947
+    },
+    {
+        "CustomerID": 9858,
+        "Name": "Kelsey Martin",
+        "Region": "West",
+        "SignUpDate": "2021-05-29",
+        "Email": "christiancontreras@example.org",
+        "LoyaltyPoints": 769
+    },
+    {
+        "CustomerID": 8378,
+        "Name": "Paul Herman",
+        "Region": "South",
+        "SignUpDate": "2018-09-15",
+        "Email": "rachael43@example.org",
+        "LoyaltyPoints": 1121
+    },
+    {
+        "CustomerID": 3239,
+        "Name": "Stacey Pierce",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "khorton@example.com",
+        "LoyaltyPoints": 3470
+    },
+    {
+        "CustomerID": 7780,
+        "Name": "Chris Powers",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "michaelwilliams@example.com",
+        "LoyaltyPoints": 4115
+    },
+    {
+        "CustomerID": 9727,
+        "Name": "Kelly Keller",
+        "Region": "South",
+        "SignUpDate": "2022-04-06",
+        "Email": "kevinharrington@example.net",
+        "LoyaltyPoints": 886
+    },
+    {
+        "CustomerID": 8334,
+        "Name": "Courtney Martinez",
+        "Region": "North",
+        "SignUpDate": "2024-02-26",
+        "Email": "davidtaylor@example.net",
+        "LoyaltyPoints": 4324
+    },
+    {
+        "CustomerID": 5146,
+        "Name": "George Gonzalez",
+        "Region": "North",
+        "SignUpDate": "2019-05-22",
+        "Email": "mayclayton@example.com",
+        "LoyaltyPoints": 3583
+    },
+    {
+        "CustomerID": 5536,
+        "Name": "Derek Carpenter",
+        "Region": "South",
+        "SignUpDate": "2019-12-27",
+        "Email": "larry38@example.net",
+        "LoyaltyPoints": 2032
+    },
+    {
+        "CustomerID": 6620,
+        "Name": "Kenneth Ford",
+        "Region": null,
+        "SignUpDate": "2021-12-19",
+        "Email": "roger05@example.com",
+        "LoyaltyPoints": 2159
+    },
+    {
+        "CustomerID": 3400,
+        "Name": "Pamela Mccarthy",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "hebertmaurice@example.org",
+        "LoyaltyPoints": 2108
+    },
+    {
+        "CustomerID": 6783,
+        "Name": "Thomas Rodriguez",
+        "Region": null,
+        "SignUpDate": "2023-06-01",
+        "Email": "bmorris@example.net",
+        "LoyaltyPoints": 4963
+    },
+    {
+        "CustomerID": 4498,
+        "Name": "Megan Key",
+        "Region": null,
+        "SignUpDate": "2022-11-13",
+        "Email": "ghill@example.net",
+        "LoyaltyPoints": 4170
+    },
+    {
+        "CustomerID": 4406,
+        "Name": "Robert Hamilton",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "edickson@example.org",
+        "LoyaltyPoints": 525
+    },
+    {
+        "CustomerID": 2764,
+        "Name": "Michael Baker",
+        "Region": null,
+        "SignUpDate": "2023-12-11",
+        "Email": "herreradenise@example.net",
+        "LoyaltyPoints": 550
+    },
+    {
+        "CustomerID": 5300,
+        "Name": "Yolanda Shaw",
+        "Region": "North",
+        "SignUpDate": "2024-05-02",
+        "Email": "williamssteven@example.net",
+        "LoyaltyPoints": 2473
+    },
+    {
+        "CustomerID": 1205,
+        "Name": "Belinda Freeman",
+        "Region": "South",
+        "SignUpDate": "2024-01-16",
+        "Email": "diane00@example.com",
+        "LoyaltyPoints": 774
+    },
+    {
+        "CustomerID": 9842,
+        "Name": "Donald Rollins",
+        "Region": "South",
+        "SignUpDate": "2021-01-09",
+        "Email": "smithrachel@example.org",
+        "LoyaltyPoints": 1054
+    },
+    {
+        "CustomerID": 4502,
+        "Name": "Katherine Christian",
+        "Region": "West",
+        "SignUpDate": "2022-07-20",
+        "Email": "kcook@example.net",
+        "LoyaltyPoints": 1395
+    },
+    {
+        "CustomerID": 4223,
+        "Name": "Lauren Miller",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "tbutler@example.com",
+        "LoyaltyPoints": 3263
+    },
+    {
+        "CustomerID": 2302,
+        "Name": "Keith Hickman",
+        "Region": "East",
+        "SignUpDate": "2023-07-23",
+        "Email": "ulee@example.org",
+        "LoyaltyPoints": 3422
+    },
+    {
+        "CustomerID": 4459,
+        "Name": "Glen Frazier",
+        "Region": "South",
+        "SignUpDate": "2019-11-16",
+        "Email": "joshua83@example.com",
+        "LoyaltyPoints": 4680
+    },
+    {
+        "CustomerID": 2112,
+        "Name": "Tara Velasquez",
+        "Region": "West",
+        "SignUpDate": "2018-10-10",
+        "Email": "hollandmeredith@example.com",
+        "LoyaltyPoints": 139
+    },
+    {
+        "CustomerID": 6203,
+        "Name": "Chad Fisher",
+        "Region": "North",
+        "SignUpDate": "2021-02-05",
+        "Email": "moyermichael@example.org",
+        "LoyaltyPoints": 4681
+    },
+    {
+        "CustomerID": 6098,
+        "Name": "Cameron Barker",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "rhonda63@example.net",
+        "LoyaltyPoints": 407
+    },
+    {
+        "CustomerID": 7423,
+        "Name": "Tonya Meyer",
+        "Region": "North",
+        "SignUpDate": "2019-08-27",
+        "Email": "hhernandez@example.com",
+        "LoyaltyPoints": 4212
+    },
+    {
+        "CustomerID": 3663,
+        "Name": "Donald Walsh",
+        "Region": null,
+        "SignUpDate": "2020-03-28",
+        "Email": "nathaniel18@example.net",
+        "LoyaltyPoints": 4568
+    },
+    {
+        "CustomerID": 7421,
+        "Name": "Anthony Wallace",
+        "Region": null,
+        "SignUpDate": "2024-03-28",
+        "Email": "brendahall@example.org",
+        "LoyaltyPoints": 671
+    },
+    {
+        "CustomerID": 1976,
+        "Name": "Nichole Bauer",
+        "Region": "East",
+        "SignUpDate": "2024-01-04",
+        "Email": "luceroallison@example.net",
+        "LoyaltyPoints": 4864
+    },
+    {
+        "CustomerID": 7807,
+        "Name": "Carolyn Garcia",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "davidnelson@example.org",
+        "LoyaltyPoints": 3116
+    },
+    {
+        "CustomerID": 1354,
+        "Name": "Mrs. Margaret Harrison",
+        "Region": "South",
+        "SignUpDate": "2023-05-07",
+        "Email": "rwatkins@example.com",
+        "LoyaltyPoints": 4640
+    },
+    {
+        "CustomerID": 4838,
+        "Name": "Emily Ingram",
+        "Region": "North",
+        "SignUpDate": "2022-03-08",
+        "Email": "ryan49@example.net",
+        "LoyaltyPoints": 611
+    },
+    {
+        "CustomerID": 5263,
+        "Name": "Kathleen Lyons MD",
+        "Region": "West",
+        "SignUpDate": "2019-09-22",
+        "Email": "mark45@example.org",
+        "LoyaltyPoints": 1609
+    },
+    {
+        "CustomerID": 5848,
+        "Name": "Michael Brown",
+        "Region": "West",
+        "SignUpDate": "2021-11-11",
+        "Email": "caitlin97@example.com",
+        "LoyaltyPoints": 1494
+    },
+    {
+        "CustomerID": 8492,
+        "Name": "Jennifer Gonzalez",
+        "Region": "South",
+        "SignUpDate": "2021-08-07",
+        "Email": "ustout@example.com",
+        "LoyaltyPoints": 4451
+    },
+    {
+        "CustomerID": 3231,
+        "Name": "Brandon Gonzalez",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "heather07@example.com",
+        "LoyaltyPoints": 2522
+    },
+    {
+        "CustomerID": 3721,
+        "Name": "Mr. Brandon Thomas",
+        "Region": "East",
+        "SignUpDate": "2024-07-01",
+        "Email": "uanderson@example.org",
+        "LoyaltyPoints": 3981
+    },
+    {
+        "CustomerID": 4398,
+        "Name": "Ellen Schneider",
+        "Region": "South",
+        "SignUpDate": "2018-12-26",
+        "Email": "normandavid@example.com",
+        "LoyaltyPoints": 1802
+    },
+    {
+        "CustomerID": 6928,
+        "Name": "Ricky Peterson",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "haleyweiss@example.org",
+        "LoyaltyPoints": 3796
+    },
+    {
+        "CustomerID": 9692,
+        "Name": "Vanessa Morris",
+        "Region": "North",
+        "SignUpDate": "2024-04-27",
+        "Email": "cwise@example.com",
+        "LoyaltyPoints": 4741
+    },
+    {
+        "CustomerID": 5953,
+        "Name": "Leah Ruiz",
+        "Region": "North",
+        "SignUpDate": "2019-06-11",
+        "Email": "claytoncrystal@example.com",
+        "LoyaltyPoints": 1999
+    },
+    {
+        "CustomerID": 7803,
+        "Name": "Mark Reid",
+        "Region": "South",
+        "SignUpDate": "2018-10-15",
+        "Email": "anthonylewis@example.com",
+        "LoyaltyPoints": 330
+    },
+    {
+        "CustomerID": 9535,
+        "Name": "Ryan Miller",
+        "Region": "North",
+        "SignUpDate": "2019-10-04",
+        "Email": "reyesroy@example.org",
+        "LoyaltyPoints": 3385
+    },
+    {
+        "CustomerID": 8250,
+        "Name": "Brandi Clark",
+        "Region": null,
+        "SignUpDate": "2024-08-04",
+        "Email": "lunakatherine@example.org",
+        "LoyaltyPoints": 4703
+    },
+    {
+        "CustomerID": 3505,
+        "Name": "Dennis Bird",
+        "Region": "East",
+        "SignUpDate": "2021-02-21",
+        "Email": "jason08@example.org",
+        "LoyaltyPoints": 1806
+    },
+    {
+        "CustomerID": 2318,
+        "Name": "Mrs. Janice Contreras MD",
+        "Region": "North",
+        "SignUpDate": "2021-06-06",
+        "Email": "jacksonmark@example.com",
+        "LoyaltyPoints": 4946
+    },
+    {
+        "CustomerID": 3853,
+        "Name": "Thomas Baxter",
+        "Region": "South",
+        "SignUpDate": "2018-10-05",
+        "Email": "hopkinsrichard@example.org",
+        "LoyaltyPoints": 2723
+    },
+    {
+        "CustomerID": 1658,
+        "Name": "Christopher Meadows",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "yleonard@example.org",
+        "LoyaltyPoints": 1980
+    },
+    {
+        "CustomerID": 9305,
+        "Name": "David Ramos",
+        "Region": "North",
+        "SignUpDate": "2022-04-04",
+        "Email": "ronaldtorres@example.net",
+        "LoyaltyPoints": 3887
+    },
+    {
+        "CustomerID": 5046,
+        "Name": "Jennifer Ward",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "longjustin@example.net",
+        "LoyaltyPoints": 2701
+    },
+    {
+        "CustomerID": 3729,
+        "Name": "Michael Hanson",
+        "Region": null,
+        "SignUpDate": "2019-03-19",
+        "Email": "hartshannon@example.org",
+        "LoyaltyPoints": 296
+    },
+    {
+        "CustomerID": 8196,
+        "Name": "Jill Stephens",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "kshannon@example.org",
+        "LoyaltyPoints": 388
+    },
+    {
+        "CustomerID": 3974,
+        "Name": "Brian Turner",
+        "Region": "East",
+        "SignUpDate": "2020-02-24",
+        "Email": "pgomez@example.net",
+        "LoyaltyPoints": 4352
+    },
+    {
+        "CustomerID": 5526,
+        "Name": "Kevin Warren",
+        "Region": "South",
+        "SignUpDate": "2023-08-26",
+        "Email": "wjones@example.com",
+        "LoyaltyPoints": 4395
+    },
+    {
+        "CustomerID": 1545,
+        "Name": "Bruce Harvey",
+        "Region": null,
+        "SignUpDate": "2022-03-07",
+        "Email": "gstewart@example.net",
+        "LoyaltyPoints": 4370
+    },
+    {
+        "CustomerID": 7850,
+        "Name": "Krystal Atkins",
+        "Region": "East",
+        "SignUpDate": "2022-06-15",
+        "Email": "allenerika@example.org",
+        "LoyaltyPoints": 2648
+    },
+    {
+        "CustomerID": 3563,
+        "Name": "Matthew Martinez",
+        "Region": "South",
+        "SignUpDate": "2020-07-02",
+        "Email": "santossamantha@example.net",
+        "LoyaltyPoints": 3647
+    },
+    {
+        "CustomerID": 8724,
+        "Name": "Kristin Brennan",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "navarromelissa@example.net",
+        "LoyaltyPoints": 1233
+    },
+    {
+        "CustomerID": 6850,
+        "Name": "Melissa Cohen",
+        "Region": "South",
+        "SignUpDate": "2023-05-04",
+        "Email": "lisamays@example.com",
+        "LoyaltyPoints": 3520
+    },
+    {
+        "CustomerID": 3753,
+        "Name": "Thomas Lane",
+        "Region": "South",
+        "SignUpDate": "2019-06-25",
+        "Email": "arthurbarnes@example.com",
+        "LoyaltyPoints": 2941
+    },
+    {
+        "CustomerID": 3914,
+        "Name": "David Lewis",
+        "Region": "South",
+        "SignUpDate": "2021-09-13",
+        "Email": "wbrooks@example.com",
+        "LoyaltyPoints": 4471
+    },
+    {
+        "CustomerID": 2037,
+        "Name": "Crystal Matthews",
+        "Region": "East",
+        "SignUpDate": "2022-06-30",
+        "Email": "hoffmanstacey@example.com",
+        "LoyaltyPoints": 1946
+    },
+    {
+        "CustomerID": 9347,
+        "Name": "Gregory Guzman",
+        "Region": "South",
+        "SignUpDate": "2023-08-06",
+        "Email": "thomas26@example.org",
+        "LoyaltyPoints": 1092
+    },
+    {
+        "CustomerID": 8550,
+        "Name": "Eugene Howard",
+        "Region": "West",
+        "SignUpDate": "2018-10-09",
+        "Email": "kevinryan@example.com",
+        "LoyaltyPoints": 1685
+    },
+    {
+        "CustomerID": 2114,
+        "Name": "Michelle Gonzalez",
+        "Region": "North",
+        "SignUpDate": "2023-02-27",
+        "Email": "joliver@example.org",
+        "LoyaltyPoints": 88
+    },
+    {
+        "CustomerID": 8241,
+        "Name": "Mr. Barry Silva MD",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "tyler70@example.org",
+        "LoyaltyPoints": 4824
+    },
+    {
+        "CustomerID": 6911,
+        "Name": "Stacey Wilson",
+        "Region": null,
+        "SignUpDate": "2023-03-27",
+        "Email": "ipineda@example.com",
+        "LoyaltyPoints": 2689
+    },
+    {
+        "CustomerID": 6886,
+        "Name": "Juan Hood",
+        "Region": "West",
+        "SignUpDate": "2022-07-25",
+        "Email": "fmartin@example.net",
+        "LoyaltyPoints": 804
+    },
+    {
+        "CustomerID": 2924,
+        "Name": "Timothy Shaw",
+        "Region": "East",
+        "SignUpDate": "2023-08-18",
+        "Email": "rcarter@example.org",
+        "LoyaltyPoints": 3055
+    },
+    {
+        "CustomerID": 5049,
+        "Name": "Robin Miller",
+        "Region": "North",
+        "SignUpDate": "2021-03-06",
+        "Email": "candiceblack@example.org",
+        "LoyaltyPoints": 3141
+    },
+    {
+        "CustomerID": 5703,
+        "Name": "Douglas Alvarado",
+        "Region": null,
+        "SignUpDate": "2020-09-15",
+        "Email": "ifranklin@example.com",
+        "LoyaltyPoints": 476
+    },
+    {
+        "CustomerID": 4717,
+        "Name": "Brian Contreras",
+        "Region": "South",
+        "SignUpDate": "2023-06-27",
+        "Email": "bishoperin@example.com",
+        "LoyaltyPoints": 4360
+    },
+    {
+        "CustomerID": 6604,
+        "Name": "Douglas Arnold",
+        "Region": "East",
+        "SignUpDate": "2020-12-27",
+        "Email": "diane54@example.com",
+        "LoyaltyPoints": 3220
+    },
+    {
+        "CustomerID": 5749,
+        "Name": "Mary Santos",
+        "Region": "West",
+        "SignUpDate": "2023-09-25",
+        "Email": "sandra98@example.com",
+        "LoyaltyPoints": 4228
+    },
+    {
+        "CustomerID": 3296,
+        "Name": "Jeffrey Patel",
+        "Region": "East",
+        "SignUpDate": "2018-09-07",
+        "Email": "coxthomas@example.com",
+        "LoyaltyPoints": 4954
+    },
+    {
+        "CustomerID": 5614,
+        "Name": "Paula Nichols",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "danielhall@example.com",
+        "LoyaltyPoints": 1188
+    },
+    {
+        "CustomerID": 3246,
+        "Name": "Maria Powell",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "christopher43@example.org",
+        "LoyaltyPoints": 242
+    },
+    {
+        "CustomerID": 4178,
+        "Name": "Raymond Anderson",
+        "Region": "West",
+        "SignUpDate": "2024-01-20",
+        "Email": "ashley89@example.com",
+        "LoyaltyPoints": 3349
+    },
+    {
+        "CustomerID": 8353,
+        "Name": "Marie Roberson",
+        "Region": "North",
+        "SignUpDate": "2020-01-23",
+        "Email": "emma40@example.org",
+        "LoyaltyPoints": 2564
+    },
+    {
+        "CustomerID": 9848,
+        "Name": "Travis Stone",
+        "Region": "North",
+        "SignUpDate": "2022-05-24",
+        "Email": "melissa51@example.com",
+        "LoyaltyPoints": 632
+    },
+    {
+        "CustomerID": 5421,
+        "Name": "Christopher Rodriguez",
+        "Region": "South",
+        "SignUpDate": "2020-12-10",
+        "Email": "simonvalerie@example.com",
+        "LoyaltyPoints": 3704
+    },
+    {
+        "CustomerID": 3212,
+        "Name": "Michael Ponce",
+        "Region": "North",
+        "SignUpDate": "2018-08-27",
+        "Email": "meghan29@example.com",
+        "LoyaltyPoints": 3063
+    },
+    {
+        "CustomerID": 5985,
+        "Name": "Tammy Pierce",
+        "Region": "South",
+        "SignUpDate": "2019-03-29",
+        "Email": "bradfordlori@example.net",
+        "LoyaltyPoints": 4389
+    },
+    {
+        "CustomerID": 9926,
+        "Name": "Nicholas Hall",
+        "Region": "East",
+        "SignUpDate": "2024-02-19",
+        "Email": "jamestucker@example.org",
+        "LoyaltyPoints": 4822
+    },
+    {
+        "CustomerID": 9352,
+        "Name": "Anne Beck",
+        "Region": "East",
+        "SignUpDate": "2023-04-09",
+        "Email": "cshields@example.net",
+        "LoyaltyPoints": 1165
+    },
+    {
+        "CustomerID": 6908,
+        "Name": "Lisa Brown",
+        "Region": "South",
+        "SignUpDate": "2021-03-05",
+        "Email": "xdeleon@example.com",
+        "LoyaltyPoints": 2810
+    },
+    {
+        "CustomerID": 5183,
+        "Name": "Gregory Medina",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "dunnjames@example.com",
+        "LoyaltyPoints": 4738
+    },
+    {
+        "CustomerID": 4087,
+        "Name": "Carl Howard",
+        "Region": "East",
+        "SignUpDate": "2019-01-29",
+        "Email": "jake95@example.net",
+        "LoyaltyPoints": 1598
+    },
+    {
+        "CustomerID": 1655,
+        "Name": "Morgan Elliott",
+        "Region": "West",
+        "SignUpDate": "2024-01-07",
+        "Email": "jesus76@example.net",
+        "LoyaltyPoints": 3990
+    },
+    {
+        "CustomerID": 1442,
+        "Name": "Brian Scott",
+        "Region": "North",
+        "SignUpDate": "2024-02-16",
+        "Email": "barnesmartin@example.net",
+        "LoyaltyPoints": 3550
+    },
+    {
+        "CustomerID": 1186,
+        "Name": "Lisa May",
+        "Region": "West",
+        "SignUpDate": "2023-06-17",
+        "Email": "cowanricky@example.org",
+        "LoyaltyPoints": 4554
+    },
+    {
+        "CustomerID": 6577,
+        "Name": "David Kim",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "asoto@example.org",
+        "LoyaltyPoints": 3751
+    },
+    {
+        "CustomerID": 9603,
+        "Name": "Matthew Howard",
+        "Region": "West",
+        "SignUpDate": "2023-05-20",
+        "Email": "lauren60@example.org",
+        "LoyaltyPoints": 1241
+    },
+    {
+        "CustomerID": 7217,
+        "Name": "Lee Leonard",
+        "Region": "East",
+        "SignUpDate": "2021-11-11",
+        "Email": "rbarton@example.org",
+        "LoyaltyPoints": 2592
+    },
+    {
+        "CustomerID": 2400,
+        "Name": "Jeffery Jones",
+        "Region": "East",
+        "SignUpDate": "2024-05-16",
+        "Email": "uclarke@example.org",
+        "LoyaltyPoints": 187
+    },
+    {
+        "CustomerID": 6129,
+        "Name": "William Pierce",
+        "Region": "North",
+        "SignUpDate": "2023-07-02",
+        "Email": "ismith@example.org",
+        "LoyaltyPoints": 3021
+    },
+    {
+        "CustomerID": 7645,
+        "Name": "Miguel West",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "webberic@example.com",
+        "LoyaltyPoints": 3259
+    },
+    {
+        "CustomerID": 7873,
+        "Name": "Michelle Cohen",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "michael69@example.com",
+        "LoyaltyPoints": 2518
+    },
+    {
+        "CustomerID": 8827,
+        "Name": "Mr. Daniel Evans",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "nwilson@example.org",
+        "LoyaltyPoints": 3419
+    },
+    {
+        "CustomerID": 1704,
+        "Name": "Levi Simpson",
+        "Region": "East",
+        "SignUpDate": "2021-01-15",
+        "Email": "olsendaniel@example.org",
+        "LoyaltyPoints": 1129
+    },
+    {
+        "CustomerID": 9717,
+        "Name": "Michelle Medina",
+        "Region": "West",
+        "SignUpDate": "2020-06-25",
+        "Email": "susancline@example.net",
+        "LoyaltyPoints": 3862
+    },
+    {
+        "CustomerID": 6434,
+        "Name": "Kristina White",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "madelinewarren@example.net",
+        "LoyaltyPoints": 2846
+    },
+    {
+        "CustomerID": 1125,
+        "Name": "Christopher Stewart",
+        "Region": "West",
+        "SignUpDate": "2020-09-17",
+        "Email": "lisa55@example.com",
+        "LoyaltyPoints": 2914
+    },
+    {
+        "CustomerID": 9552,
+        "Name": "Mary Wiggins",
+        "Region": "West",
+        "SignUpDate": "2022-01-16",
+        "Email": "kaylaellis@example.com",
+        "LoyaltyPoints": 2953
+    },
+    {
+        "CustomerID": 3005,
+        "Name": "Jonathan Kidd",
+        "Region": "North",
+        "SignUpDate": "2021-02-10",
+        "Email": "ttapia@example.org",
+        "LoyaltyPoints": 4850
+    },
+    {
+        "CustomerID": 4715,
+        "Name": "Charles Walsh",
+        "Region": null,
+        "SignUpDate": "2023-03-17",
+        "Email": "laustin@example.com",
+        "LoyaltyPoints": 3876
+    },
+    {
+        "CustomerID": 3773,
+        "Name": "Victoria Perkins",
+        "Region": "North",
+        "SignUpDate": "2019-05-16",
+        "Email": "sarah42@example.com",
+        "LoyaltyPoints": 609
+    },
+    {
+        "CustomerID": 8415,
+        "Name": "April Lewis",
+        "Region": "West",
+        "SignUpDate": "2023-01-07",
+        "Email": "heidismith@example.org",
+        "LoyaltyPoints": 4383
+    },
+    {
+        "CustomerID": 2319,
+        "Name": "Theresa Wagner",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "johnsonrobert@example.net",
+        "LoyaltyPoints": 4144
+    },
+    {
+        "CustomerID": 7677,
+        "Name": "Christopher Phillips",
+        "Region": "West",
+        "SignUpDate": "2022-01-17",
+        "Email": "acurry@example.com",
+        "LoyaltyPoints": 2059
+    },
+    {
+        "CustomerID": 8012,
+        "Name": "Eric Mendez",
+        "Region": null,
+        "SignUpDate": "2020-09-03",
+        "Email": "davidcastro@example.net",
+        "LoyaltyPoints": 1636
+    },
+    {
+        "CustomerID": 3781,
+        "Name": "Marilyn Lucas",
+        "Region": null,
+        "SignUpDate": "2022-01-09",
+        "Email": "stuartstephanie@example.org",
+        "LoyaltyPoints": 4708
+    },
+    {
+        "CustomerID": 8896,
+        "Name": "Manuel Walker",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "stewartstephanie@example.net",
+        "LoyaltyPoints": 2974
+    },
+    {
+        "CustomerID": 1088,
+        "Name": "Michael Vega",
+        "Region": "North",
+        "SignUpDate": "2022-04-15",
+        "Email": "julie72@example.net",
+        "LoyaltyPoints": 4664
+    },
+    {
+        "CustomerID": 5472,
+        "Name": "Alex Morales MD",
+        "Region": "North",
+        "SignUpDate": "2023-10-21",
+        "Email": "mary41@example.com",
+        "LoyaltyPoints": 2911
+    },
+    {
+        "CustomerID": 8124,
+        "Name": "Shawn Simon",
+        "Region": null,
+        "SignUpDate": "2022-02-21",
+        "Email": "lisa01@example.org",
+        "LoyaltyPoints": 54
+    },
+    {
+        "CustomerID": 2039,
+        "Name": "Jennifer Ho",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "amandaramos@example.org",
+        "LoyaltyPoints": 4608
+    },
+    {
+        "CustomerID": 5194,
+        "Name": "Stephanie Medina",
+        "Region": "North",
+        "SignUpDate": "2020-04-05",
+        "Email": "heatherspence@example.com",
+        "LoyaltyPoints": 1274
+    },
+    {
+        "CustomerID": 8838,
+        "Name": "Michael Moreno",
+        "Region": "East",
+        "SignUpDate": "2020-04-22",
+        "Email": "cartersharon@example.net",
+        "LoyaltyPoints": 4724
+    },
+    {
+        "CustomerID": 6000,
+        "Name": "Caitlin Cole",
+        "Region": null,
+        "SignUpDate": "2020-09-27",
+        "Email": "scotttravis@example.com",
+        "LoyaltyPoints": 2157
+    },
+    {
+        "CustomerID": 8999,
+        "Name": "Ronald Reynolds",
+        "Region": null,
+        "SignUpDate": "2020-03-27",
+        "Email": "wnielsen@example.com",
+        "LoyaltyPoints": 891
+    },
+    {
+        "CustomerID": 3075,
+        "Name": "Amy Gonzales",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "tiffanyholt@example.org",
+        "LoyaltyPoints": 2856
+    },
+    {
+        "CustomerID": 6458,
+        "Name": "Cory Rosales",
+        "Region": null,
+        "SignUpDate": "2021-09-24",
+        "Email": "andrea56@example.org",
+        "LoyaltyPoints": 4851
+    },
+    {
+        "CustomerID": 9235,
+        "Name": "Juan Garcia",
+        "Region": "East",
+        "SignUpDate": "2018-08-26",
+        "Email": "florescharles@example.org",
+        "LoyaltyPoints": 962
+    },
+    {
+        "CustomerID": 8645,
+        "Name": "Angela Perry",
+        "Region": "East",
+        "SignUpDate": "2022-08-07",
+        "Email": "robertruiz@example.net",
+        "LoyaltyPoints": 598
+    },
+    {
+        "CustomerID": 2892,
+        "Name": "Jesse Roberts",
+        "Region": "South",
+        "SignUpDate": "2019-10-15",
+        "Email": "ronaldgregory@example.net",
+        "LoyaltyPoints": 4962
+    },
+    {
+        "CustomerID": 9574,
+        "Name": "Jenny Gonzalez",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "amychavez@example.org",
+        "LoyaltyPoints": 3844
+    },
+    {
+        "CustomerID": 3613,
+        "Name": "Frederick Evans",
+        "Region": null,
+        "SignUpDate": "2023-02-20",
+        "Email": "sarahellis@example.org",
+        "LoyaltyPoints": 2702
+    },
+    {
+        "CustomerID": 6056,
+        "Name": "Nancy Kemp",
+        "Region": "East",
+        "SignUpDate": "2023-10-27",
+        "Email": "miguel65@example.org",
+        "LoyaltyPoints": 2890
+    },
+    {
+        "CustomerID": 8693,
+        "Name": "Sherry Frost",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "jackson06@example.org",
+        "LoyaltyPoints": 343
+    },
+    {
+        "CustomerID": 9086,
+        "Name": "Jamie Fernandez",
+        "Region": null,
+        "SignUpDate": "2022-06-26",
+        "Email": "acordova@example.com",
+        "LoyaltyPoints": 3828
+    },
+    {
+        "CustomerID": 4763,
+        "Name": "Erik Dalton",
+        "Region": "South",
+        "SignUpDate": "2018-10-26",
+        "Email": "garciastacey@example.org",
+        "LoyaltyPoints": 934
+    },
+    {
+        "CustomerID": 1684,
+        "Name": "Micheal Newman",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "aliciamartin@example.com",
+        "LoyaltyPoints": 677
+    },
+    {
+        "CustomerID": 4239,
+        "Name": "Timothy Roberts",
+        "Region": null,
+        "SignUpDate": "2021-07-31",
+        "Email": "julie07@example.net",
+        "LoyaltyPoints": 1343
+    },
+    {
+        "CustomerID": 1991,
+        "Name": "Stephen Rivera",
+        "Region": "North",
+        "SignUpDate": "2019-10-05",
+        "Email": "kristalopez@example.net",
+        "LoyaltyPoints": 363
+    },
+    {
+        "CustomerID": 4152,
+        "Name": "Debbie Stevens",
+        "Region": "South",
+        "SignUpDate": "2019-05-22",
+        "Email": "charlesrogers@example.com",
+        "LoyaltyPoints": 978
+    },
+    {
+        "CustomerID": 9157,
+        "Name": "Theresa Jefferson",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "lee25@example.org",
+        "LoyaltyPoints": 1351
+    },
+    {
+        "CustomerID": 7569,
+        "Name": "Kristin Farmer",
+        "Region": "West",
+        "SignUpDate": "2018-08-11",
+        "Email": "hillcarrie@example.net",
+        "LoyaltyPoints": 3784
+    },
+    {
+        "CustomerID": 2702,
+        "Name": "Katie Carroll",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "erikadiaz@example.org",
+        "LoyaltyPoints": 4305
+    },
+    {
+        "CustomerID": 4209,
+        "Name": "Roger Johnson",
+        "Region": "South",
+        "SignUpDate": "2021-03-17",
+        "Email": "armstrongkyle@example.org",
+        "LoyaltyPoints": 3301
+    },
+    {
+        "CustomerID": 2139,
+        "Name": "Richard Riley",
+        "Region": "East",
+        "SignUpDate": "2020-01-20",
+        "Email": "samantha60@example.org",
+        "LoyaltyPoints": 262
+    },
+    {
+        "CustomerID": 9547,
+        "Name": "Jennifer Fisher",
+        "Region": "West",
+        "SignUpDate": "2021-12-12",
+        "Email": "dvargas@example.com",
+        "LoyaltyPoints": 4515
+    },
+    {
+        "CustomerID": 7130,
+        "Name": "Peter Smith",
+        "Region": "South",
+        "SignUpDate": "2021-06-24",
+        "Email": "leeanthony@example.net",
+        "LoyaltyPoints": 1535
+    },
+    {
+        "CustomerID": 8127,
+        "Name": "Hannah Smith",
+        "Region": "South",
+        "SignUpDate": "2022-07-31",
+        "Email": "gclay@example.org",
+        "LoyaltyPoints": 1523
+    },
+    {
+        "CustomerID": 3848,
+        "Name": "Kathleen Fisher",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "michaelann@example.org",
+        "LoyaltyPoints": 1522
+    },
+    {
+        "CustomerID": 9390,
+        "Name": "Derrick Ramsey",
+        "Region": "West",
+        "SignUpDate": "2023-08-21",
+        "Email": "douglastaylor@example.com",
+        "LoyaltyPoints": 2394
+    },
+    {
+        "CustomerID": 4167,
+        "Name": "Jason Rasmussen",
+        "Region": "North",
+        "SignUpDate": "2023-09-26",
+        "Email": "sherryshort@example.org",
+        "LoyaltyPoints": 981
+    },
+    {
+        "CustomerID": 4464,
+        "Name": "Christopher Carroll",
+        "Region": "South",
+        "SignUpDate": "2018-12-02",
+        "Email": "vmooney@example.org",
+        "LoyaltyPoints": 208
+    },
+    {
+        "CustomerID": 1514,
+        "Name": "Miguel Jenkins",
+        "Region": "North",
+        "SignUpDate": "2024-02-17",
+        "Email": "brian07@example.com",
+        "LoyaltyPoints": 160
+    },
+    {
+        "CustomerID": 1063,
+        "Name": "Connie Brown",
+        "Region": "North",
+        "SignUpDate": "2021-08-01",
+        "Email": "whiteheather@example.net",
+        "LoyaltyPoints": 3037
+    },
+    {
+        "CustomerID": 8191,
+        "Name": "Holly Burke",
+        "Region": null,
+        "SignUpDate": "2019-08-10",
+        "Email": "fchapman@example.net",
+        "LoyaltyPoints": 3002
+    },
+    {
+        "CustomerID": 6792,
+        "Name": "Juan Hunter",
+        "Region": "South",
+        "SignUpDate": "2019-10-17",
+        "Email": "jadelopez@example.com",
+        "LoyaltyPoints": 1617
+    },
+    {
+        "CustomerID": 8059,
+        "Name": "Victor Williams",
+        "Region": "North",
+        "SignUpDate": "2024-06-03",
+        "Email": "bcain@example.net",
+        "LoyaltyPoints": 774
+    },
+    {
+        "CustomerID": 2138,
+        "Name": "Brittney Anderson",
+        "Region": "South",
+        "SignUpDate": "2021-10-15",
+        "Email": "perezalex@example.net",
+        "LoyaltyPoints": 573
+    },
+    {
+        "CustomerID": 3217,
+        "Name": "Monica Kennedy",
+        "Region": "South",
+        "SignUpDate": "2023-08-21",
+        "Email": "adamsjoshua@example.org",
+        "LoyaltyPoints": 3387
+    },
+    {
+        "CustomerID": 4782,
+        "Name": "Roger Grimes",
+        "Region": "South",
+        "SignUpDate": "2023-03-03",
+        "Email": "jasmine44@example.com",
+        "LoyaltyPoints": 2655
+    },
+    {
+        "CustomerID": 1373,
+        "Name": "William Savage",
+        "Region": "North",
+        "SignUpDate": "2021-11-04",
+        "Email": "twilliams@example.org",
+        "LoyaltyPoints": 3069
+    },
+    {
+        "CustomerID": 7811,
+        "Name": "Danielle Trujillo",
+        "Region": null,
+        "SignUpDate": "2020-05-11",
+        "Email": "dunnkatherine@example.com",
+        "LoyaltyPoints": 3838
+    },
+    {
+        "CustomerID": 8182,
+        "Name": "Craig Nguyen",
+        "Region": null,
+        "SignUpDate": "2021-05-31",
+        "Email": "kevin67@example.com",
+        "LoyaltyPoints": 1208
+    },
+    {
+        "CustomerID": 1295,
+        "Name": "Elizabeth Romero",
+        "Region": "North",
+        "SignUpDate": "2019-03-10",
+        "Email": "kristyramirez@example.net",
+        "LoyaltyPoints": 1385
+    },
+    {
+        "CustomerID": 6439,
+        "Name": "Billy Beck",
+        "Region": "North",
+        "SignUpDate": "2020-11-21",
+        "Email": "heatherescobar@example.com",
+        "LoyaltyPoints": 3916
+    },
+    {
+        "CustomerID": 6555,
+        "Name": "Nathan Byrd",
+        "Region": null,
+        "SignUpDate": "2021-11-07",
+        "Email": "tom34@example.net",
+        "LoyaltyPoints": 4880
+    },
+    {
+        "CustomerID": 8637,
+        "Name": "Angela Miller",
+        "Region": "West",
+        "SignUpDate": "2023-11-03",
+        "Email": "gregoryjeffrey@example.net",
+        "LoyaltyPoints": 557
+    },
+    {
+        "CustomerID": 3238,
+        "Name": "Gary Bell",
+        "Region": "South",
+        "SignUpDate": "2019-05-12",
+        "Email": "lopezbrittany@example.org",
+        "LoyaltyPoints": 2002
+    },
+    {
+        "CustomerID": 9880,
+        "Name": "Eric Olson",
+        "Region": "East",
+        "SignUpDate": "2020-05-11",
+        "Email": "rhonda93@example.net",
+        "LoyaltyPoints": 1857
+    },
+    {
+        "CustomerID": 4936,
+        "Name": "Brandon Mills",
+        "Region": "North",
+        "SignUpDate": "2019-12-23",
+        "Email": "djones@example.net",
+        "LoyaltyPoints": 885
+    },
+    {
+        "CustomerID": 6983,
+        "Name": "Julia Barron",
+        "Region": "North",
+        "SignUpDate": "2019-06-24",
+        "Email": "schultzshane@example.org",
+        "LoyaltyPoints": 4516
+    },
+    {
+        "CustomerID": 8956,
+        "Name": "Timothy Fox",
+        "Region": "West",
+        "SignUpDate": "2019-07-18",
+        "Email": "theresasanchez@example.com",
+        "LoyaltyPoints": 4314
+    },
+    {
+        "CustomerID": 3637,
+        "Name": "Gina Bauer",
+        "Region": "East",
+        "SignUpDate": "2023-12-07",
+        "Email": "christopherjones@example.com",
+        "LoyaltyPoints": 2613
+    },
+    {
+        "CustomerID": 2897,
+        "Name": "Ashley Campos",
+        "Region": null,
+        "SignUpDate": "2022-07-06",
+        "Email": "anthonylambert@example.org",
+        "LoyaltyPoints": 1874
+    },
+    {
+        "CustomerID": 3205,
+        "Name": "Dennis Hayden",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "william13@example.net",
+        "LoyaltyPoints": 2461
+    },
+    {
+        "CustomerID": 2355,
+        "Name": "Debra Miller",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "heidibrown@example.org",
+        "LoyaltyPoints": 202
+    },
+    {
+        "CustomerID": 8226,
+        "Name": "Brenda Wheeler",
+        "Region": "West",
+        "SignUpDate": "2023-10-16",
+        "Email": "russojustin@example.org",
+        "LoyaltyPoints": 4686
+    },
+    {
+        "CustomerID": 2107,
+        "Name": "Adam Frost",
+        "Region": null,
+        "SignUpDate": "2022-10-11",
+        "Email": "corey60@example.org",
+        "LoyaltyPoints": 3107
+    },
+    {
+        "CustomerID": 1953,
+        "Name": "Jerome Ortiz",
+        "Region": "North",
+        "SignUpDate": "2021-09-14",
+        "Email": "crystalbowen@example.net",
+        "LoyaltyPoints": 3410
+    },
+    {
+        "CustomerID": 3116,
+        "Name": "Zachary Rodgers",
+        "Region": "South",
+        "SignUpDate": "2019-03-09",
+        "Email": "christopher50@example.org",
+        "LoyaltyPoints": 4014
+    },
+    {
+        "CustomerID": 6088,
+        "Name": "Jessica Hoffman",
+        "Region": "West",
+        "SignUpDate": "2021-01-10",
+        "Email": "huffpaul@example.org",
+        "LoyaltyPoints": 3646
+    },
+    {
+        "CustomerID": 2212,
+        "Name": "Darlene Dominguez",
+        "Region": "East",
+        "SignUpDate": null,
+        "Email": "joe32@example.net",
+        "LoyaltyPoints": 367
+    },
+    {
+        "CustomerID": 2740,
+        "Name": "Eric Santos",
+        "Region": "West",
+        "SignUpDate": "2022-08-23",
+        "Email": "hornjason@example.com",
+        "LoyaltyPoints": 845
+    },
+    {
+        "CustomerID": 9118,
+        "Name": "Ruben Davenport",
+        "Region": "East",
+        "SignUpDate": "2022-07-08",
+        "Email": "hansenmary@example.org",
+        "LoyaltyPoints": 1356
+    },
+    {
+        "CustomerID": 1066,
+        "Name": "Jeremy Green",
+        "Region": null,
+        "SignUpDate": "2018-08-26",
+        "Email": "mary17@example.com",
+        "LoyaltyPoints": 4070
+    },
+    {
+        "CustomerID": 5425,
+        "Name": "Nicole Humphrey",
+        "Region": "North",
+        "SignUpDate": "2019-04-03",
+        "Email": "armstrongbrooke@example.com",
+        "LoyaltyPoints": 2019
+    },
+    {
+        "CustomerID": 5785,
+        "Name": "Ronald Rodriguez",
+        "Region": "South",
+        "SignUpDate": "2023-04-29",
+        "Email": "margaretcohen@example.net",
+        "LoyaltyPoints": 1910
+    },
+    {
+        "CustomerID": 1121,
+        "Name": "Mark Ramirez",
+        "Region": "West",
+        "SignUpDate": "2019-10-03",
+        "Email": "oconnellkendra@example.com",
+        "LoyaltyPoints": 215
+    },
+    {
+        "CustomerID": 4369,
+        "Name": "Miss Kristina Morrow",
+        "Region": "East",
+        "SignUpDate": "2019-12-19",
+        "Email": "jesse54@example.net",
+        "LoyaltyPoints": 380
+    },
+    {
+        "CustomerID": 6388,
+        "Name": "Patrick Valdez",
+        "Region": "West",
+        "SignUpDate": "2023-06-20",
+        "Email": "beanthomas@example.com",
+        "LoyaltyPoints": 4509
+    },
+    {
+        "CustomerID": 4541,
+        "Name": "Joseph Olsen",
+        "Region": "South",
+        "SignUpDate": "2023-01-08",
+        "Email": "penningtonmark@example.com",
+        "LoyaltyPoints": 2520
+    },
+    {
+        "CustomerID": 9234,
+        "Name": "Bridget Harris",
+        "Region": "North",
+        "SignUpDate": "2020-06-07",
+        "Email": "ashleyjohnson@example.org",
+        "LoyaltyPoints": 4963
+    },
+    {
+        "CustomerID": 8820,
+        "Name": "Michael Cross",
+        "Region": null,
+        "SignUpDate": "2021-04-04",
+        "Email": "timothy33@example.org",
+        "LoyaltyPoints": 2913
+    },
+    {
+        "CustomerID": 1259,
+        "Name": "Tracy Daugherty",
+        "Region": "North",
+        "SignUpDate": "2020-10-02",
+        "Email": "johnsonthomas@example.com",
+        "LoyaltyPoints": 2947
+    },
+    {
+        "CustomerID": 2959,
+        "Name": "Ryan Smith",
+        "Region": "South",
+        "SignUpDate": "2021-10-31",
+        "Email": "jacquelinecollier@example.com",
+        "LoyaltyPoints": 2378
+    },
+    {
+        "CustomerID": 8945,
+        "Name": "Kayla Williams",
+        "Region": "South",
+        "SignUpDate": "2018-11-10",
+        "Email": "balvarez@example.org",
+        "LoyaltyPoints": 1000
+    },
+    {
+        "CustomerID": 4062,
+        "Name": "Tammy Thomas",
+        "Region": null,
+        "SignUpDate": "2024-06-10",
+        "Email": "johnkirby@example.org",
+        "LoyaltyPoints": 546
+    },
+    {
+        "CustomerID": 7638,
+        "Name": "Alicia Perez",
+        "Region": "North",
+        "SignUpDate": "2022-08-17",
+        "Email": "randalljulie@example.com",
+        "LoyaltyPoints": 698
+    },
+    {
+        "CustomerID": 1361,
+        "Name": "Donald Jennings",
+        "Region": "East",
+        "SignUpDate": "2018-12-06",
+        "Email": "schneiderdale@example.net",
+        "LoyaltyPoints": 70
+    },
+    {
+        "CustomerID": 5690,
+        "Name": "Debra Williams",
+        "Region": "South",
+        "SignUpDate": "2023-06-03",
+        "Email": "amber89@example.com",
+        "LoyaltyPoints": 2216
+    },
+    {
+        "CustomerID": 5176,
+        "Name": "Lisa Cook",
+        "Region": "South",
+        "SignUpDate": "2023-10-25",
+        "Email": "lesliegibson@example.com",
+        "LoyaltyPoints": 1825
+    },
+    {
+        "CustomerID": 2456,
+        "Name": "Nicole Johnson",
+        "Region": "North",
+        "SignUpDate": "2023-07-11",
+        "Email": "christopher79@example.com",
+        "LoyaltyPoints": 1283
+    },
+    {
+        "CustomerID": 5714,
+        "Name": "Melissa Woods",
+        "Region": "West",
+        "SignUpDate": "2023-07-14",
+        "Email": "swood@example.org",
+        "LoyaltyPoints": 2649
+    },
+    {
+        "CustomerID": 6303,
+        "Name": "Mark Roth",
+        "Region": "North",
+        "SignUpDate": "2023-10-20",
+        "Email": "tina71@example.org",
+        "LoyaltyPoints": 4299
+    },
+    {
+        "CustomerID": 7839,
+        "Name": "Anne Roach",
+        "Region": "West",
+        "SignUpDate": "2023-03-20",
+        "Email": "sarahrichardson@example.com",
+        "LoyaltyPoints": 2784
+    },
+    {
+        "CustomerID": 2604,
+        "Name": "Troy Bell",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "josephnelson@example.org",
+        "LoyaltyPoints": 1969
+    },
+    {
+        "CustomerID": 3064,
+        "Name": "Brian Gonzalez",
+        "Region": "North",
+        "SignUpDate": "2023-02-12",
+        "Email": "benjaminbrown@example.net",
+        "LoyaltyPoints": 4517
+    },
+    {
+        "CustomerID": 5544,
+        "Name": "Regina Meyer",
+        "Region": null,
+        "SignUpDate": "2022-07-29",
+        "Email": "ygardner@example.net",
+        "LoyaltyPoints": 1369
+    },
+    {
+        "CustomerID": 9467,
+        "Name": "Christopher Perry",
+        "Region": null,
+        "SignUpDate": "2022-10-11",
+        "Email": "johnsonbrittany@example.com",
+        "LoyaltyPoints": 1999
+    },
+    {
+        "CustomerID": 7798,
+        "Name": "Brandy Perez",
+        "Region": "West",
+        "SignUpDate": "2020-11-23",
+        "Email": "shelby22@example.org",
+        "LoyaltyPoints": 4061
+    },
+    {
+        "CustomerID": 2994,
+        "Name": "Lori Gibson",
+        "Region": "South",
+        "SignUpDate": "2019-11-27",
+        "Email": "melissa72@example.org",
+        "LoyaltyPoints": 859
+    },
+    {
+        "CustomerID": 3600,
+        "Name": "Michelle Robinson",
+        "Region": "South",
+        "SignUpDate": "2022-01-19",
+        "Email": "ronaldrubio@example.com",
+        "LoyaltyPoints": 2579
+    },
+    {
+        "CustomerID": 4484,
+        "Name": "Nathaniel Barrett",
+        "Region": null,
+        "SignUpDate": "2023-02-18",
+        "Email": "justin12@example.org",
+        "LoyaltyPoints": 2528
+    },
+    {
+        "CustomerID": 6325,
+        "Name": "Lawrence Gates",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "hammondbrittany@example.net",
+        "LoyaltyPoints": 4846
+    },
+    {
+        "CustomerID": 1681,
+        "Name": "Daniel Romero",
+        "Region": "North",
+        "SignUpDate": "2020-05-21",
+        "Email": "fjordan@example.org",
+        "LoyaltyPoints": 469
+    },
+    {
+        "CustomerID": 2377,
+        "Name": "Rodney Moore",
+        "Region": "West",
+        "SignUpDate": "2021-09-11",
+        "Email": "walleraudrey@example.org",
+        "LoyaltyPoints": 860
+    },
+    {
+        "CustomerID": 9320,
+        "Name": "Heidi Castaneda",
+        "Region": null,
+        "SignUpDate": "2021-11-08",
+        "Email": "william28@example.net",
+        "LoyaltyPoints": 734
+    },
+    {
+        "CustomerID": 4078,
+        "Name": "Edward Garcia",
+        "Region": null,
+        "SignUpDate": "2023-02-18",
+        "Email": "carmenfreeman@example.com",
+        "LoyaltyPoints": 4719
+    },
+    {
+        "CustomerID": 5320,
+        "Name": "Ryan Graham",
+        "Region": null,
+        "SignUpDate": "2021-10-09",
+        "Email": "garciajason@example.com",
+        "LoyaltyPoints": 126
+    },
+    {
+        "CustomerID": 4991,
+        "Name": "Sarah Norris",
+        "Region": "West",
+        "SignUpDate": "2023-10-04",
+        "Email": "james27@example.net",
+        "LoyaltyPoints": 283
+    },
+    {
+        "CustomerID": 8722,
+        "Name": "Benjamin Holmes",
+        "Region": null,
+        "SignUpDate": "2019-06-14",
+        "Email": "hallmichael@example.org",
+        "LoyaltyPoints": 3366
+    },
+    {
+        "CustomerID": 1559,
+        "Name": "David Jackson",
+        "Region": "West",
+        "SignUpDate": "2022-05-02",
+        "Email": "christianedwards@example.com",
+        "LoyaltyPoints": 1230
+    },
+    {
+        "CustomerID": 9591,
+        "Name": "Kevin Davis",
+        "Region": null,
+        "SignUpDate": "2024-07-27",
+        "Email": "jacqueline47@example.org",
+        "LoyaltyPoints": 4179
+    },
+    {
+        "CustomerID": 7711,
+        "Name": "Jermaine Hughes",
+        "Region": "North",
+        "SignUpDate": "2023-07-18",
+        "Email": "xortiz@example.com",
+        "LoyaltyPoints": 3542
+    },
+    {
+        "CustomerID": 7828,
+        "Name": "Tyler Sherman",
+        "Region": "North",
+        "SignUpDate": "2022-04-21",
+        "Email": "madisonadkins@example.com",
+        "LoyaltyPoints": 1053
+    },
+    {
+        "CustomerID": 8954,
+        "Name": "Victoria Figueroa",
+        "Region": "North",
+        "SignUpDate": "2021-03-03",
+        "Email": "williamselizabeth@example.net",
+        "LoyaltyPoints": 1077
+    },
+    {
+        "CustomerID": 5216,
+        "Name": "Janet May",
+        "Region": "North",
+        "SignUpDate": "2022-12-12",
+        "Email": "rebeccazavala@example.net",
+        "LoyaltyPoints": 3522
+    },
+    {
+        "CustomerID": 4412,
+        "Name": "Sarah Wilson",
+        "Region": "North",
+        "SignUpDate": "2023-08-21",
+        "Email": "mblack@example.com",
+        "LoyaltyPoints": 2234
+    },
+    {
+        "CustomerID": 1629,
+        "Name": "Nathan Gonzalez",
+        "Region": "West",
+        "SignUpDate": "2019-06-12",
+        "Email": "imartinez@example.com",
+        "LoyaltyPoints": 273
+    },
+    {
+        "CustomerID": 2185,
+        "Name": "Marie Miller",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "uholmes@example.net",
+        "LoyaltyPoints": 4314
+    },
+    {
+        "CustomerID": 6218,
+        "Name": "Johnny Hoffman",
+        "Region": "North",
+        "SignUpDate": "2021-06-06",
+        "Email": "jmarks@example.net",
+        "LoyaltyPoints": 4067
+    },
+    {
+        "CustomerID": 4810,
+        "Name": "Brittney Berry",
+        "Region": null,
+        "SignUpDate": "2020-07-14",
+        "Email": "alfredcruz@example.com",
+        "LoyaltyPoints": 4487
+    },
+    {
+        "CustomerID": 5417,
+        "Name": "Jennifer Higgins",
+        "Region": "West",
+        "SignUpDate": "2020-04-16",
+        "Email": "george97@example.org",
+        "LoyaltyPoints": 3761
+    },
+    {
+        "CustomerID": 8458,
+        "Name": "Robert Carrillo",
+        "Region": "South",
+        "SignUpDate": "2022-09-01",
+        "Email": "elizabethowens@example.net",
+        "LoyaltyPoints": 2508
+    },
+    {
+        "CustomerID": 7648,
+        "Name": "Joseph Hayes",
+        "Region": "South",
+        "SignUpDate": "2019-10-16",
+        "Email": "jillian35@example.net",
+        "LoyaltyPoints": 1503
+    },
+    {
+        "CustomerID": 9266,
+        "Name": "Christopher Ford",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "tommy16@example.com",
+        "LoyaltyPoints": 4189
+    },
+    {
+        "CustomerID": 5551,
+        "Name": "Chelsea Rivera",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "ggutierrez@example.net",
+        "LoyaltyPoints": 4481
+    },
+    {
+        "CustomerID": 5238,
+        "Name": "Alexis Gray",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "martinanthony@example.com",
+        "LoyaltyPoints": 72
+    },
+    {
+        "CustomerID": 2472,
+        "Name": "Jean Villarreal",
+        "Region": "East",
+        "SignUpDate": "2020-05-14",
+        "Email": "msmith@example.net",
+        "LoyaltyPoints": 1980
+    },
+    {
+        "CustomerID": 8262,
+        "Name": "Kenneth Sparks",
+        "Region": "East",
+        "SignUpDate": "2023-05-06",
+        "Email": "branchnathan@example.net",
+        "LoyaltyPoints": 3195
+    },
+    {
+        "CustomerID": 5858,
+        "Name": "Jennifer Simpson",
+        "Region": null,
+        "SignUpDate": "2022-06-08",
+        "Email": "williamssusan@example.com",
+        "LoyaltyPoints": 1717
+    },
+    {
+        "CustomerID": 4396,
+        "Name": "Jay Riley",
+        "Region": "North",
+        "SignUpDate": "2023-04-03",
+        "Email": "richardskimberly@example.net",
+        "LoyaltyPoints": 3243
+    },
+    {
+        "CustomerID": 8248,
+        "Name": "Cody Boyd",
+        "Region": null,
+        "SignUpDate": "2024-06-09",
+        "Email": "nhale@example.org",
+        "LoyaltyPoints": 1853
+    },
+    {
+        "CustomerID": 5005,
+        "Name": "Lisa Keith",
+        "Region": "North",
+        "SignUpDate": "2018-09-26",
+        "Email": "wsmith@example.com",
+        "LoyaltyPoints": 4265
+    },
+    {
+        "CustomerID": 7535,
+        "Name": "Corey Wallace",
+        "Region": "North",
+        "SignUpDate": "2020-11-16",
+        "Email": "joshua79@example.com",
+        "LoyaltyPoints": 3029
+    },
+    {
+        "CustomerID": 7206,
+        "Name": "Kyle Love",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "bonniebrown@example.com",
+        "LoyaltyPoints": 249
+    },
+    {
+        "CustomerID": 3079,
+        "Name": "Leslie Sanders",
+        "Region": "East",
+        "SignUpDate": "2019-04-21",
+        "Email": "kmendez@example.net",
+        "LoyaltyPoints": 649
+    },
+    {
+        "CustomerID": 3132,
+        "Name": "Jennifer Brown",
+        "Region": "South",
+        "SignUpDate": "2023-07-07",
+        "Email": "molly73@example.com",
+        "LoyaltyPoints": 4408
+    },
+    {
+        "CustomerID": 6990,
+        "Name": "Christian Johnson",
+        "Region": "North",
+        "SignUpDate": "2023-08-04",
+        "Email": "saundersanthony@example.org",
+        "LoyaltyPoints": 370
+    },
+    {
+        "CustomerID": 5170,
+        "Name": "Raymond Martinez",
+        "Region": "South",
+        "SignUpDate": "2019-09-24",
+        "Email": "mark52@example.net",
+        "LoyaltyPoints": 545
+    },
+    {
+        "CustomerID": 3284,
+        "Name": "Curtis Johnson",
+        "Region": "South",
+        "SignUpDate": "2022-01-14",
+        "Email": "zbutler@example.org",
+        "LoyaltyPoints": 2648
+    },
+    {
+        "CustomerID": 7617,
+        "Name": "Hannah Mathews",
+        "Region": "East",
+        "SignUpDate": "2022-03-13",
+        "Email": "kbailey@example.net",
+        "LoyaltyPoints": 1268
+    },
+    {
+        "CustomerID": 5022,
+        "Name": "Melinda Johnson",
+        "Region": "South",
+        "SignUpDate": null,
+        "Email": "vmarsh@example.com",
+        "LoyaltyPoints": 1180
+    },
+    {
+        "CustomerID": 9282,
+        "Name": "Joe Ramirez",
+        "Region": "South",
+        "SignUpDate": "2020-10-12",
+        "Email": "rthomas@example.net",
+        "LoyaltyPoints": 4349
+    },
+    {
+        "CustomerID": 8988,
+        "Name": "Amanda Morris",
+        "Region": "South",
+        "SignUpDate": "2024-01-04",
+        "Email": "vrose@example.org",
+        "LoyaltyPoints": 1825
+    },
+    {
+        "CustomerID": 6396,
+        "Name": "Rebecca Schwartz",
+        "Region": "East",
+        "SignUpDate": "2019-06-20",
+        "Email": "robinsonconnor@example.net",
+        "LoyaltyPoints": 4122
+    },
+    {
+        "CustomerID": 8969,
+        "Name": "Robert Moore",
+        "Region": "North",
+        "SignUpDate": "2022-04-21",
+        "Email": "edunn@example.org",
+        "LoyaltyPoints": 2675
+    },
+    {
+        "CustomerID": 6897,
+        "Name": "Mark Davis",
+        "Region": "West",
+        "SignUpDate": "2021-08-05",
+        "Email": "qbrown@example.com",
+        "LoyaltyPoints": 2442
+    },
+    {
+        "CustomerID": 2040,
+        "Name": "Brianna Edwards",
+        "Region": "North",
+        "SignUpDate": "2022-08-06",
+        "Email": "wroberson@example.net",
+        "LoyaltyPoints": 16
+    },
+    {
+        "CustomerID": 2696,
+        "Name": "Dawn Evans",
+        "Region": "North",
+        "SignUpDate": "2020-07-02",
+        "Email": "nicole30@example.org",
+        "LoyaltyPoints": 463
+    },
+    {
+        "CustomerID": 4966,
+        "Name": "Clinton Mason",
+        "Region": "East",
+        "SignUpDate": "2019-12-21",
+        "Email": "christopher18@example.com",
+        "LoyaltyPoints": 2168
+    },
+    {
+        "CustomerID": 9183,
+        "Name": "Daniel Brown",
+        "Region": "West",
+        "SignUpDate": "2020-01-05",
+        "Email": "navarrodouglas@example.net",
+        "LoyaltyPoints": 2432
+    },
+    {
+        "CustomerID": 5973,
+        "Name": "Donald Williams",
+        "Region": "East",
+        "SignUpDate": "2019-09-15",
+        "Email": "sara11@example.com",
+        "LoyaltyPoints": 2022
+    },
+    {
+        "CustomerID": 8582,
+        "Name": "Kylie Perez",
+        "Region": "North",
+        "SignUpDate": "2020-10-07",
+        "Email": "barnesangela@example.com",
+        "LoyaltyPoints": 2904
+    },
+    {
+        "CustomerID": 7426,
+        "Name": "Mia Stevens",
+        "Region": "North",
+        "SignUpDate": "2022-02-26",
+        "Email": "hwarren@example.org",
+        "LoyaltyPoints": 3370
+    },
+    {
+        "CustomerID": 5159,
+        "Name": "Sylvia Mahoney",
+        "Region": "East",
+        "SignUpDate": "2024-02-24",
+        "Email": "walkersherri@example.org",
+        "LoyaltyPoints": 1985
+    },
+    {
+        "CustomerID": 4053,
+        "Name": "Robert Johnson",
+        "Region": "South",
+        "SignUpDate": "2021-06-12",
+        "Email": "tina18@example.com",
+        "LoyaltyPoints": 2626
+    },
+    {
+        "CustomerID": 5768,
+        "Name": "Mandy Howard",
+        "Region": "East",
+        "SignUpDate": "2022-12-19",
+        "Email": "nancysmith@example.net",
+        "LoyaltyPoints": 4925
+    },
+    {
+        "CustomerID": 2898,
+        "Name": "Vernon Odonnell",
+        "Region": "East",
+        "SignUpDate": "2024-03-03",
+        "Email": "jamie85@example.com",
+        "LoyaltyPoints": 441
+    },
+    {
+        "CustomerID": 2960,
+        "Name": "Justin Gonzales",
+        "Region": null,
+        "SignUpDate": "2022-04-02",
+        "Email": "johnclark@example.org",
+        "LoyaltyPoints": 4916
+    },
+    {
+        "CustomerID": 9008,
+        "Name": "John Cox",
+        "Region": "West",
+        "SignUpDate": null,
+        "Email": "guzmandouglas@example.org",
+        "LoyaltyPoints": 4023
+    },
+    {
+        "CustomerID": 8412,
+        "Name": "Jordan Ward",
+        "Region": null,
+        "SignUpDate": "2020-01-20",
+        "Email": "reesemelissa@example.org",
+        "LoyaltyPoints": 3245
+    },
+    {
+        "CustomerID": 2902,
+        "Name": "Eugene Phillips",
+        "Region": "West",
+        "SignUpDate": "2024-08-06",
+        "Email": "jessica93@example.org",
+        "LoyaltyPoints": 1054
+    },
+    {
+        "CustomerID": 8704,
+        "Name": "Sara Cantu",
+        "Region": "North",
+        "SignUpDate": "2021-08-07",
+        "Email": "joseph72@example.net",
+        "LoyaltyPoints": 1984
+    },
+    {
+        "CustomerID": 2448,
+        "Name": "Julia Johnson",
+        "Region": "North",
+        "SignUpDate": "2022-09-14",
+        "Email": "joseph94@example.net",
+        "LoyaltyPoints": 1917
+    },
+    {
+        "CustomerID": 2260,
+        "Name": "Larry Garcia",
+        "Region": null,
+        "SignUpDate": null,
+        "Email": "kristina47@example.com",
+        "LoyaltyPoints": 2241
+    },
+    {
+        "CustomerID": 3024,
+        "Name": "Barbara Reynolds",
+        "Region": "North",
+        "SignUpDate": null,
+        "Email": "qharper@example.com",
+        "LoyaltyPoints": 4678
+    }
+]

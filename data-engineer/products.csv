@@ -1,0 +1,202 @@
+ProductID,ProductName,Category,Price,Supplier
+207, ,Puzzle,64,Brown-Garcia
+732,Joseph,RC Toy,170,Ortiz Inc
+463,Jacob,RC Toy,108,Hinton-Patterson
+163,Shawn,Action Figure,107,"Rios, Cannon and Wheeler"
+255,Daniel,Puzzle,163,Summers LLC
+172,Jamie,RC Toy,157,Taylor Ltd
+339, ,Doll,177,"Lee, Hartman and Johnston"
+151, ,RC Toy,98,Wiley-Osborne
+590,Madeline,Doll,44,"Fletcher, Palmer and Cruz"
+214,Desiree,Doll,15,Williams-Owens
+607,Natalie,Action Figure,183,Barber LLC
+757,Lori,Puzzle,195,Burns-Forbes
+322,Suzanne,Doll,175,Woods-Carter
+844, ,RC Toy,127,"Wolfe, Dyer and Hall"
+774,Christopher,Board Game,63,"Joseph, Fritz and Wagner"
+472,Anthony,RC Toy,102,"French, White and Hernandez"
+632,Michelle,Action-Figure,122,Nelson-Rogers
+367,Elizabeth,Doll,178,"Harris, Porter and Archer"
+229, ,Puzzle,20,Buchanan Inc
+482,Martin,RC Toy,167,Franklin-Howard
+700,David,RC Toy,43,"Butler, Simon and Wilkerson"
+899,Marcia,RC Toy,190,Stephens-Phillips
+467,Jenna,Action Figure,45,Ryan-Berg
+643,Christina,Doll,186,Barker-Floyd
+373,Kelly,Puzzle,177,Long Ltd
+879,Edward,Puzzle,111,Black-Myers
+343, ,Doll,159,Garcia-Krause
+930,Phillip,Action Figure,193,"Young, Davis and Fox"
+391,Maria,Doll,151,"Hill, Smith and Cook"
+379, ,Puzzle,180,Banks Ltd
+220,Molly,Board Game,198,"Rogers, Clements and Ho"
+570,Amy,Action Figure,139,Green PLC
+858,Gregory,Puzzle,21,"Payne, Wright and Hill"
+588,Trevor,Puzzle,124,Johnson-Smith
+274,Jeremy,Board Game,30,Freeman-Torres
+414,Anita,Action-Figure,131,Thompson Group
+209,Calvin,RC Toy,194,"Lewis, Moss and Mckenzie"
+645,Angie,RC Toy,157,Martin Group
+323,Michael,Action Figure,37,Benson-Johnston
+492,Theresa,Puzzle,36,"Vaughan, Mitchell and Carter"
+840, ,Action Figure,100,Stone-Bowers
+500,Charles,Action Figure,39,Jenkins-Garcia
+954, ,Action Figure,87,Brown-Montgomery
+301, ,RC Toy,184,White and Sons
+251,Timothy,Board Game,76,Wilson-Cook
+115,Laura,Board Game,91,"Mclean, Gomez and Davis"
+625,Brooke,RC Toy,6,Olson PLC
+783, ,Action Figure,141,Wright LLC
+164,Steven,RC Toy,109,"Watts, Maynard and Campos"
+506,Kristin,Action-Figure,37,"Johnson, Gilbert and Rogers"
+726,Douglas,RC Toy,43,"Moran, Guzman and Weiss"
+296,Kristi,Action Figure,91,Kennedy PLC
+921, ,Action Figure,14,Wilson Inc
+661,Randall,Puzzle,29,Nash LLC
+848, ,RC Toy,174,"Henderson, Underwood and Gonzales"
+694,Chelsey,RC Toy,113,Rodriguez LLC
+853,Melanie,Board Game,162,"Keller, Blankenship and Williams"
+187,Jessica,RC Toy,77,Rowe Group
+692,Tammy,Board Game,139,Montes LLC
+378, ,Board Game,76,Larsen PLC
+815,Michele,Board Game,156,Boyd and Sons
+628,Darrell,RC Toy,70,"Perez, Miller and Woodard"
+125,Stanley,RC Toy,110,"Richard, Flowers and Williamson"
+183,Robert,RC Toy,199,Ross-Greene
+846,Karl,Doll,181,"Love, Sanchez and Burch"
+144,Julie,Board Game,78,Nelson PLC
+878,Troy,Action Figure,149,Weaver-Jones
+431,Sonya,Puzzle,159,Hoffman LLC
+701,Peter,Action Figure,6,Cole Group
+188,Susan,Doll,50,"Turner, Burke and Johnson"
+691, ,Puzzle,192,"Wilson, Butler and Jones"
+445,Jennifer,Doll,22,Ward LLC
+738, ,RC Toy,79,Williams-Sosa
+350,Brian,RC Toy,194,Martin-Pennington
+225,Logan,Action-Figure,146,Barnes and Sons
+561,Brianna,Action-Figure,185,"Liu, Reed and Brock"
+527, ,Action-Figure,68,"Olson, Green and Lynch"
+177,Edwin,Puzzle,22,Miller LLC
+811, ,Action Figure,125,"Bennett, Acevedo and Foster"
+532,Kathleen,Doll,189,Estes-Copeland
+487,William,RC Toy,60,Reyes-Wall
+558,Kimberly,RC Toy,20,Garcia PLC
+102,Leslie,Puzzle,184,Lambert LLC
+776,Eric,Board Game,161,Chambers Inc
+271,Edgar,Action-Figure,19,Yang LLC
+166,Cassandra,Doll,120,"Thompson, Green and Sharp"
+132,Brittany,RC Toy,88,Bruce LLC
+248,Lawrence,RC Toy,14,Thomas PLC
+191, ,Puzzle,69,Bates-Smith
+110, ,Action-Figure,49,"Johnston, Castro and Williams"
+481,Pamela,RC Toy,200,Avery-Gallegos
+729,Ann,Puzzle,56,"Wells, Kerr and Simpson"
+332,Vicki,RC Toy,120,Morris Inc
+337, ,Puzzle,106,Sullivan PLC
+627, ,Puzzle,191,"Howard, Watts and Whitehead"
+295,Caleb,Puzzle,166,Schneider Inc
+286, ,Board Game,84,Crawford Ltd
+524, ,Doll,125,"Williams, Simmons and Li"
+403,Bill,Board Game,107,Rodriguez Inc
+767,Kayla,Board Game,169,Stanley PLC
+169,Rachel,RC Toy,79,Bell-Jones
+581, ,Board Game,29,Soto Group
+975, ,Doll,169,"Noble, Foster and Bolton"
+990,Gabriela,Puzzle,72,Wheeler LLC
+870,Sarah,Action Figure,186,Harding-Huff
+677,Bryan,RC Toy,57,Miller Group
+676,Lisa,Doll,62,Jimenez-Parker
+108,Jay,Board Game,26,Martin-Sosa
+335,Angela,Puzzle,12,Barnes-Trujillo
+374, ,Board Game,156,Guerra-Lang
+529,Tracey,Puzzle,187,Kelley-Brooks
+154,Ruben,Puzzle,195,"Mcdaniel, Hood and Lane"
+826, ,Puzzle,97,Beltran Ltd
+883,Thomas,Doll,168,"Love, Moore and Fields"
+313,Philip,RC Toy,59,"Suarez, Kelly and Watkins"
+734,Melinda,Puzzle,87,"Collier, Hernandez and Schmidt"
+503,Robin,Puzzle,79,Mendoza-Rodriguez
+750, ,Action Figure,172,Costa-Sanders
+395,Deanna,Doll,140,Phillips PLC
+685, ,Action Figure,117,Lam-Howell
+161,Alex,Action Figure,156,Mclaughlin-Daniels
+254, ,Action Figure,109,Price-Little
+283, ,RC Toy,73,"Lang, Davidson and Castro"
+230,Sandra,Doll,141,"Wilson, Franklin and Hale"
+277,Billy,Action Figure,147,Jensen-Thompson
+887, ,Board Game,71,"Hernandez, Holland and Wilson"
+898,Katie,Board Game,10,Garcia and Sons
+901,Anna,Action Figure,106,"Diaz, Mendez and Nichols"
+232,Tara,Doll,157,"Alexander, Aguilar and Michael"
+789,Ryan,Doll,68,"Allison, Bailey and Riley"
+140,Brandon,Action-Figure,159,"Livingston, Taylor and Harrington"
+717,Diane,Puzzle,143,Walker Group
+857, ,RC Toy,53,Sullivan-Allison
+423,Jacqueline,Puzzle,189,"Thompson, Mcguire and Taylor"
+480, ,Doll,107,"West, Williams and Parker"
+653,Whitney,Puzzle,168,Taylor Ltd
+755,Kathryn,Puzzle,135,Mcdonald Inc
+139,Emily,Doll,180,"Harrington, Frazier and Bradford"
+314,Tricia,Puzzle,25,Knight PLC
+766,Wanda,RC Toy,88,Mason LLC
+544,Renee,Action Figure,189,"Baker, Brown and Hernandez"
+888,Andrew,Doll,48,"Jones, Rhodes and Smith"
+198,Leah,Doll,14,Brooks-Ramirez
+459,Tiffany,Board Game,12,"Jensen, Blankenship and Williams"
+611,Rita,Action-Figure,25,Johnson-Marsh
+167, ,RC Toy,97,"Walton, Jenkins and Soto"
+808,Darren,Board Game,30,Lee-Rangel
+340,Bradley,Doll,59,James-Gill
+162,Sharon,Puzzle,85,Gibson and Sons
+192,Sean,Action-Figure,95,Hardy-Combs
+569, ,Action-Figure,195,Williamson-Flowers
+742, ,Action Figure,13,Kennedy-Chen
+841,Hannah,Action Figure,180,"Myers, Bennett and Lee"
+620, ,Doll,57,"Valencia, Miller and Mitchell"
+838,Nancy,Action Figure,136,Spencer Group
+488,Paula,Doll,48,Ballard-Bennett
+744,Tina,Action Figure,143,Beltran Group
+210,Reginald,Puzzle,104,Nguyen-Lee
+206,Nicholas,Action Figure,55,"Rodriguez, Carter and Morton"
+733,Faith,Puzzle,19,"Jennings, Reed and Kelly"
+556, ,Doll,105,Sexton Inc
+483,Nicole,RC Toy,138,Haney Group
+837,Travis,RC Toy,17,"Wright, Mendez and Wilkinson"
+420,Ronald,Doll,41,Davenport-Smith
+637,Kaitlyn,Action Figure,92,Jordan-Park
+419,Bailey,Action Figure,185,"Franklin, Cannon and Pratt"
+397,Chase,Board Game,38,Kirk-Ross
+512, ,RC Toy,177,"Dunn, Howard and Williams"
+697, ,Doll,100,"Love, Warren and Crane"
+769, ,RC Toy,124,"Fuller, Cohen and Hart"
+369,Jesse,Action Figure,61,"Hutchinson, Shelton and Spears"
+252, ,Doll,142,Miller-Fox
+490,Nathaniel,Puzzle,72,"Woodard, Ramos and Taylor"
+310,Jeff,Action Figure,56,"Spencer, Huber and Blake"
+452, ,Action-Figure,159,"Green, Mora and Mitchell"
+634,Alison,Action-Figure,156,Baker-Moore
+762,Adrian,Board Game,84,"Obrien, White and Krueger"
+902,Cheryl,Doll,88,Johnson-Yates
+880,Stacy,Board Game,57,"Clark, Scott and Graham"
+617, ,Puzzle,59,Leonard-Smith
+771,Christine,Puzzle,65,Baxter-Nguyen
+146,Bobby,Doll,8,Campbell-Trujillo
+173,Sara,Board Game,149,Paul-Clements
+263, ,Doll,184,"Wilson, Wright and Olson"
+135,Tony,Puzzle,134,Jones Group
+715, ,Puzzle,37,Marquez-Sharp
+631,Tamara,Action Figure,199,"Williams, Matthews and Martinez"
+174,Catherine,Action Figure,173,"Wilson, Byrd and Murillo"
+150,Chelsea,Puzzle,101,Mendoza-Wilson
+411,Betty,Puzzle,182,Hall-Marshall
+288,Lucas,Action Figure,134,Clark-Baker
+127,Yvonne,RC Toy,79,Smith-Walker
+949,Jaclyn,Action-Figure,59,Delacruz Group
+601,Alexander,Puzzle,11,Harris PLC
+810,Nathan,Board Game,58,Mcdonald-Coffey
+542,Holly,RC Toy,159,Stanley-Ray
+333,April,Action Figure,7,Phillips-Roach
+659,Rebecca,Puzzle,59,Duncan-Lewis
+720, ,Puzzle,147,"Hill, Hughes and Velazquez"
+497,Bonnie,RC Toy,176,Jackson-Blevins
+254,  ,Action Figure,109,Price-Little
