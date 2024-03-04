@@ -34,7 +34,7 @@ implementation. Keep in mind that Doodle is used worldwide and has to work on co
 # What we expect
 It is OK if the challenge is not completed. Try to **prioritize** it by what you think is more important. Tell us what 
 motivated your technology choices, how you tackled the task, what you would do differently were you given more time, 
-what you would differently a second time around, etc.
+what you would do differently a second time around, etc.
 
 Here are some pointers for you of things we will be looking for:
 
@@ -42,7 +42,7 @@ Here are some pointers for you of things we will be looking for:
 * Code readability
 * Performance: it should load reasonably fast on a mobile device
 * Accessibility: the more usable the interface, the better
-* Design: we are not looking for pixel-pushing, but we love attention to detail
+* Design: we are not looking for pixel-perfect results, but we love attention to detail
 
 # Next steps
 Send an email with a link to your repository solution to `code-challenge@doodle.com`.
