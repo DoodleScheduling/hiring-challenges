@@ -48,7 +48,7 @@ Here are some pointers for you of things we will be looking for:
 * Code readability
 * Performance: it should load reasonably fast on a mobile device
 * Accessibility: the more usable the interface, the better
-* Design: we are not looking for pixel-pushing, but we love attention to detail
+* Design: we are not looking for pixel-perfect results, but we love attention to detail
 
 # Next steps
 
