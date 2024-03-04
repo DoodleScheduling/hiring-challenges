@@ -2,9 +2,9 @@
 
 As a Frontend Tech Lead candidate, your task is to provide a comprehensive solution proposal for the development of a real-time chat application. Your proposal should include a high-level architectural design, risk assessment, and a proof of concept to serve as a starting point for your development team.
 
-Doodle is used by organizers to schedule meetings with participants: for this, the organizer can create meetings with an organizer frontend. The participants can then vote on potential times of these meetings on a participation frontend. Both frontends are static client-side applications and use a REST-based meeting service to collect the preferences of the participants.
+Doodle is used by organizers to schedule meetings with participants: for this, the organizer can create meetings with an organizer frontend application. The participants can then vote on potential times of these meetings on a participation frontend application. Both frontends are static client-side applications and use a REST-based meeting service to collect the preferences of the participants.
 
-We’d like to enable organizers and participants of each meeting to message each other in a chat component, which is integrated both on the organizer and the participation frontend.
+We’d like to enable organizers and participants of each meeting to message each other in a chat component, which is integrated both on the organizer and the participation frontend applications.
 
 In order to constrain this scenario further, we only want to support messages with text content and all users are authenticated. However we do want chat participants to see new messages without reloading the page. Although there are typically around 10 participants per meeting, the meeting service supports several 100’000s of meetings, with around 10’000 active users.
 
@@ -21,7 +21,7 @@ In order to constrain this scenario further, we only want to support messages wi
 
 We understand your time is precious and would not want you to spend more than **4 to 6 hours** on this over the span of **one week** max. The outcome should be runnable locally on a UNIX-flavored OS (MacOS, Linux) in a common browser.
 
-You can use either **JavaScript** or Typescript, ideally with React. We want you to provide a responsive implementation. Keep in mind that Doodle is used worldwide and has to work on commonly used browsers.
+You can use either **Typescript** or **JavaScript** (with a preference for Typescript), ideally with React. We want you to provide a responsive implementation. Keep in mind that Doodle is used worldwide and has to work on commonly used browsers.
 
 We expect to hear back from you in **one week** from now, latest.
 
