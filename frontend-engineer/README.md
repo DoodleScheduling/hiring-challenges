@@ -60,6 +60,6 @@ Your task is to implement the frontend for a chat application. The backend API, 
 
 Once completed, send an email with a link to your repository to `code-challenge@doodle.com` with the subject `FE-<yourname>`. For example, if your name is "Paul Smith", the subject should be `FE-Paul Smith`.
 
-We will review your submission within one week—although sometimes it might take a bit longer.
+We will review your submission within one week although sometimes it might take a bit longer.
 
 Good luck and happy coding!
