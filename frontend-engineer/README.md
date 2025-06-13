@@ -1,6 +1,6 @@
 # The Challenge (Frontend Engineer)
 
-We would like you to build a simple chat interface in JavaScript (or TypeScript, if you prefer) that sends and displays messages from all senders. The design should resemble the example below:
+We would like you to build a simple chat interface in TypeScript that sends and displays messages from all senders. The design should resemble the example below:
 
 <img src="chat.png" width="400" alt="chat" />
 
@@ -8,7 +8,9 @@ The assets and additional documentation are available in the **assets** folder.
 
 ## Overview
 
-Your task is to implement the frontend for a chat application. The backend API, which handles message storage and retrieval, has been shared as another repository. **For the backend implementation details and setup instructions, please refer to the [Frontend Challenge Chat API repository](https://github.com/DoodleScheduling/frontend-challenge-chat-api)**.
+Your task is to implement the frontend for a chat application. The backend API, which handles message storage and retrieval, has been shared as another repository. 
+
+**For the backend implementation details and setup instructions, please refer to the [Frontend Challenge Chat API repository](https://github.com/DoodleScheduling/frontend-challenge-chat-api)**.
 
 ### Frontend challenge Chat API Details
 
@@ -43,8 +45,8 @@ Your task is to implement the frontend for a chat application. The backend API, 
 
 ## Challenge Requirements
 
-- **Time Commitment:** Spend 3 to 5 hours on the challenge over the course of one week.
-- **Technology:** Build the interface using JavaScript (or TypeScript). Feel free to use libraries like React or frameworks like Next.js if desired.
+- **Time Commitment:** Spend 4 to 6 hours on the challenge over the course of one week.
+- **Technology:** Build the interface using TypeScript. Feel free to use libraries like React or frameworks like Next.js if desired.
 - **Responsiveness:** The interface must be responsive and work smoothly on commonly used browsers and mobile devices.
 - **Code Quality:** Maintain clear code readability, commit often with useful messages, and prioritize performance and accessibility.
 

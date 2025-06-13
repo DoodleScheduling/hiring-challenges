@@ -27,9 +27,9 @@ service in the composer file, including your database system of choice.
 We understand your time is precious and would not want you to spend more than **3 to 5 hours** on this over the span 
 of **1 week** max. 
 
-Please use a **JVM language**, preferably Java for your backend service. Feel free to use any framework, like Spring 
-for example. Now for the frontend, please use JavaScript (Vanilla JS, React, ...). We want you to provide a responsive 
-implementation. Keep in mind that Doodle is used worldwide and has to work on commonly used browsers. 
+Please use a **JVM language**, preferably Java for your backend service. Feel free to use any framework, like Spring for example. 
+
+Now for the frontend, please use TypeScript (Vanilla JS, React, ...). We want you to provide a responsive implementation. Keep in mind that Doodle is used worldwide and has to work on commonly used browsers. 
 
 # What we expect
 It is OK if the challenge is not completed. Try to **prioritize** it by what you think is more important. Tell us what 
