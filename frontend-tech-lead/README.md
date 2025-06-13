@@ -21,7 +21,7 @@ In order to constrain this scenario further, we only want to support messages wi
 
 We understand your time is precious and would not want you to spend more than **4 to 6 hours** on this over the span of **one week** max. The outcome should be runnable locally on a UNIX-flavored OS (MacOS, Linux) in a common browser.
 
-You can use either **Typescript** or **JavaScript** (with a preference for Typescript), ideally with React. We want you to provide a responsive implementation. Keep in mind that Doodle is used worldwide and has to work on commonly used browsers.
+You can use Typescript, ideally with React. We want you to provide a responsive implementation. Keep in mind that Doodle is used worldwide and has to work on commonly used browsers.
 
 We expect to hear back from you in **one week** from now, latest.
 
