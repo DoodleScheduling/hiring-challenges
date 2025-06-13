@@ -1,70 +1,65 @@
-# The challenge (Frontend Engineer)
+# The Challenge (Frontend Engineer)
 
-We would like you to build a simple chat interface in Javascript (Typescript is allowed), which is able to send and display messages from
-all senders. Something like this:
+We would like you to build a simple chat interface in JavaScript (or TypeScript, if you prefer) that sends and displays messages from all senders. The design should resemble the example below:
 
 <img src="chat.png" width="400" alt="chat" />
 
-The assets and additional documentation can be found in the **assets** folder.
+The assets and additional documentation are available in the **assets** folder.
 
-For this, we have prepared a simple API which receives new messages in a `POST` endpoint
-and lists all messages reverse chronological order in a `GET` endpoint. Please use your personal `YOUR_AWESOME_UNIQUE_TOKEN`.
+## Overview
 
-You should've gotten the `YOUR_AWESOME_UNIQUE_TOKEN` via email. If not, please do not hesitate to get in touch and we'll provide you one.
+Your task is to implement the frontend for a chat application. The backend API, which handles message storage and retrieval, has been shared as another repository. **For the backend implementation details and setup instructions, please refer to the [Frontend Challenge Chat API repository](https://github.com/DoodleScheduling/frontend-challenge-chat-api)**.
 
-#### List all messages
+### Frontend challenge Chat API Details
 
-```shell script
-curl https://chatty.doodle-test.com/api/chatty/v1.0/?token=
-[YOUR_AWESOME_UNIQUE_TOKEN]
-```
+- **Authentication:** All message related endpoints require a Bearer token.
+- **Endpoints:**
+  - **GET /api/v1/messages:** Retrieves messages in reverse chronological order with optional pagination.
+  - **POST /api/v1/messages:** Creates a new chat message.
+- **Example cURL Commands after you run it locally:**
 
-#### List 10 messages after a timestamp
+  **List all messages:**
 
-```shell script
-curl https://chatty.doodle-test.com/api/chatty/v1.0/?
-since=1521096352339&limit=10&token=[YOUR_AWESOME_UNIQUE_TOKEN]
+  ```shell script
+  curl http://localhost:3000/api/v1/messages \
+    -H "Authorization: Bearer super-secret-doodle-token"
+  ```
 
-```
+  **List 10 messages after a specific timestamp:**
 
-#### Send a message
+  ```shell script
+  curl "http://localhost:3000/api/v1/messages?after=2023-01-01T00:00:00.000Z&limit=10" \
+    -H "Authorization: Bearer super-secret-doodle-token"
+  ```
 
-```shell script
-curl -X POST \ -H 'Content-Type: application/json' \ -H 'token:
-[YOUR_AWESOME_UNIQUE_TOKEN]' \ -d '{"message":"Hello world","author":"Tom"}' \
-https://chatty.doodle-test.com/api/chatty/v1.0
-```
+  **Send a message:**
 
-# Rules
+  ```shell script
+  curl -X POST http://localhost:3000/api/v1/messages \
+    -H "Authorization: Bearer super-secret-doodle-token" \
+    -H "Content-Type: application/json" \
+    -d '{"message": "Hello world", "author": "John Doe"}'
+  ```
 
-We understand your time is precious and would not want you to spend more than **3 to 5 hours** on this over the span
-of **one week** max. The outcome should be runnable locally on a UNIX-flavored OS (MacOS, Linux) in a common browser.
+## Challenge Requirements
 
-You must use **JavaScript** (Vanilla JS, React, ...). Typescript is allowed. We want you to provide a responsive
-implementation. Keep in mind that Doodle is used worldwide and has to work on commonly
-used browsers.
+- **Time Commitment:** Spend 3 to 5 hours on the challenge over the course of one week.
+- **Technology:** Build the interface using JavaScript (or TypeScript). Feel free to use libraries like React or frameworks like Next.js if desired.
+- **Responsiveness:** The interface must be responsive and work smoothly on commonly used browsers and mobile devices.
+- **Code Quality:** Maintain clear code readability, commit often with useful messages, and prioritize performance and accessibility.
 
-We expect to hear back from you in **one week** from now, latest.
+## What We’re Looking For
 
-# What we expect
+- **Code Readability and Clean Architecture**
+- **Commit Quality:** Frequent, descriptive commits.
+- **Performance:** Fast load times and efficient rendering for mobile devices.
+- **Accessibility:** User friendly design that is accessible to everyone.
+- **Design Attention:** We are not looking for pixel perfect results, but we love attention to detail.
 
-It is OK if the challenge is not completed. Try to **prioritize** it by what you think is more important. Tell us what
-motivated your technology choices, how you tackled the task, what you would do differently were you given more time,
-what you would do differently a second time around, etc.
+## Submission
 
-Here are some pointers for you of things we will be looking for:
+Once completed, send an email with a link to your repository to `code-challenge@doodle.com` with the subject `FE-<yourname>`. For example, if your name is "Paul Smith", the subject should be `FE-Paul Smith`.
 
-- Commit often, write useful commit messages
-- Code readability
-- Performance: it should load reasonably fast on a mobile device
-- Accessibility: the more usable the interface, the better
-- Design: we are not looking for pixel-perfect results, but we love attention to detail
+We will review your submission within one week although sometimes it might take a bit longer.
 
-# Next steps
-
-Send an email with a link to your repository solution to `code-challenge@doodle.com`.
-
-Make sure your email has the following subject: `FE-<yourname>`. So for example, if your name were "Paul Smith",
-your email subject would be `FE-Paul Smith`
-
-We will review your solution, we strive to get back to you in **1 week**. Sometimes it might take more.
+Good luck and happy coding!
