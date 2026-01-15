@@ -8,7 +8,7 @@ The assets and additional documentation are available in the **assets** folder.
 
 ## Overview
 
-Your task is to implement the frontend for a chat application. The backend API, which handles message storage and retrieval, has been shared as another repository. 
+Your task is to implement the frontend for a chat application. The backend API, which handles message storage and retrieval, has been shared as another repository.
 
 **For the backend implementation details and setup instructions, please refer to the [Frontend Challenge Chat API repository](https://github.com/DoodleScheduling/frontend-challenge-chat-api)**.
 
@@ -46,7 +46,7 @@ Your task is to implement the frontend for a chat application. The backend API, 
 ## Challenge Requirements
 
 - **Time Commitment:** Spend 4 to 6 hours on the challenge over the course of one week.
-- **Technology:** Build the interface using TypeScript. Feel free to use libraries like React or frameworks like Next.js if desired.
+- **Technology:** Build the interface using React and TypeScript. Feel free to use frameworks like Next.js if desired.
 - **Responsiveness:** The interface must be responsive and work smoothly on commonly used browsers and mobile devices.
 - **Code Quality:** Maintain clear code readability, commit often with useful messages, and prioritize performance and accessibility.
 
