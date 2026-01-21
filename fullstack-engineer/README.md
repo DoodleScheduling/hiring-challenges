@@ -16,8 +16,8 @@ Your API should have the following features:
 
 The design of the API is up to you.
 
-Now, when it comes to the frontend, go easy on this one. No perfectly polished CSS is needed. Just present the 
-messages as depicted in the wireframe. 
+Now, when it comes to the frontend, you should use your HTML and CSS skills to 
+present the messages as depicted in the wireframe.
 
 Your solution should be runnable locally using `docker-compose`. Don't forget to include all the dependencies of your 
 service in the composer file, including your database system of choice. 
