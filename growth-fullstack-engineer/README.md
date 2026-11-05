@@ -15,7 +15,7 @@ Please spend no more than **3 hours** on this. When you reach 3 hours, stop and 
 1. Load the polls from `assets/polls.json`. Add an endpoint that lists all of them, newest first. Include the polls where `hidden` is true. The creation date is the `initiated` field, a Unix time in milliseconds. The title and the creation date are enough.
 2. Give each visitor version A or version B of the button. Each new visitor has a 50% chance to get A and a 50% chance to get B. After that, the visitor always gets the same version. It is fine if this is lost when the server restarts.
 3. Record two events: a visitor saw the button, and a visitor clicked the button. "Saw" means the page with the button has loaded.
-4. Add an endpoint that returns the results for each version as JSON: how many unique visitors saw the button, how many of them clicked it, and the click rate.
+4. Add an endpoint that returns the results for each version as JSON: how many visitors saw the button, how many of them clicked it, and the click rate. Count each visitor once, also when they reload the page or click more than once. The click rate is the number of visitors who clicked divided by the number of visitors who saw the button.
 
 ### Frontend
 
