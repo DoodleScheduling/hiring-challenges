@@ -2,7 +2,9 @@
 
 The Growth team at Doodle runs A/B tests. We show two versions of a page to different visitors and measure which one works better.
 
-When users open their dashboard on doodle.com, they see a list of their polls. We want more people to create new polls. In this challenge you build a simple dashboard and test two versions of its "Create poll" button.
+Our goal is more paid subscriptions. When users open their dashboard on doodle.com, they see a list of their polls. In this challenge you build a simple version of that dashboard with an "Upgrade" button, and you test two versions of that button.
+
+In a real product, the button would open a plans page where users pay. In this challenge there is no plans page and no payment. You measure clicks on the button instead.
 
 Please spend no more than **3 hours** on this. When you reach 3 hours, stop and write down what is left.
 
@@ -10,23 +12,23 @@ Please spend no more than **3 hours** on this. When you reach 3 hours, stop and 
 
 ### Backend
 
-1. Load the polls from `assets/polls.json`. Add an endpoint that lists all of them, newest first. The creation date is the `initiated` field, a Unix time in milliseconds. The title and the creation date are enough.
-2. Give each visitor version A or version B of the button. Half of the visitors get A and half get B. A visitor always gets the same version. This does not need to survive a server restart.
-3. Record two events: a visitor saw the button, and a visitor clicked the button.
-4. Add an endpoint that shows the results for each version: how many unique visitors saw the button, how many of them clicked it, and the click rate.
+1. Load the polls from `assets/polls.json`. Add an endpoint that lists all of them, newest first. Include the polls where `hidden` is true. The creation date is the `initiated` field, a Unix time in milliseconds. The title and the creation date are enough.
+2. Give each visitor version A or version B of the button. Each new visitor has a 50% chance to get A and a 50% chance to get B. After that, the visitor always gets the same version. It is fine if this is lost when the server restarts.
+3. Record two events: a visitor saw the button, and a visitor clicked the button. "Saw" means the page with the button has loaded.
+4. Add an endpoint that returns the results for each version as JSON: how many unique visitors saw the button, how many of them clicked it, and the click rate.
 
 ### Frontend
 
 1. Show all polls with the title and the date it was created.
 2. Visitors do not log in. Each browser needs a visitor id that stays the same across reloads. The browser or the server can create it.
-3. Show the version of the button the visitor is assigned to. Version A says "Create poll". You decide what version B changes.
-4. A click on the button does not need to create a poll. It only needs to be recorded.
+3. Show the version of the button the visitor is assigned to. Version A says "Upgrade". Version B changes one thing. You decide what, for example the text, the place on the page or the look.
+4. A click on the button does not need to open anything. It only needs to be recorded.
 
 The design of the API is up to you. The page does not need to be pixel-perfect, but it must work on a phone and with a keyboard.
 
 ### Tests
 
-Write tests for the backend. Cover at least the split and the results. Frontend tests are a plus.
+Write tests for the backend. Cover at least the split and the results. Frontend tests are optional.
 
 ### Questions
 
@@ -35,7 +37,7 @@ Answer these in your `README.md`. A few sentences each is enough.
 1. What does version B change, and why do you think it will get more clicks?
 2. How many visitors would you want before you trust the result? How did you get to that number?
 3. The split should be close to 50/50. What could make it come out different, and how would you notice?
-4. Is a click the right thing to measure? What else would you measure?
+4. A click on "Upgrade" is not a subscription. What would you measure to know whether version B brings more paid subscriptions?
 
 Also write in your `README.md` how to start the app and what you left out.
 
@@ -51,7 +53,7 @@ This is how we expect the 3 hours to be used. You can split them differently.
 
 ## Rules
 
-- Backend: a JVM language, preferably Java. We use Spring Boot, and you can use any framework you like.
+- Backend: a JVM language, preferably Java. You can use any framework. We use Spring Boot.
 - Frontend: React with TypeScript. Doodle is used worldwide, so the page must work on commonly used browsers.
 - Storage: keep everything in memory. You do not need a database.
 - Running it: tell us how to start it. One terminal for the backend and one for the frontend is fine.
