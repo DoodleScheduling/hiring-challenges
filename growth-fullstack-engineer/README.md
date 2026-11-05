@@ -70,8 +70,6 @@ It is OK if you do not finish everything. Do what you think matters most first.
 
 ## Next steps
 
-Keep your repository private. Add `kostiantyn-yemelianov-doodle` and `alexvan2` on GitHub as collaborators.
-
 Send an email with a link to your repository to `code-challenge@doodle.com`.
 
 Use the subject `GFS-<yourname>`. For example, if your name is "Paul Smith", the subject is `GFS-Paul Smith`.
