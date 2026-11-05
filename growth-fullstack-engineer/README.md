@@ -10,15 +10,15 @@ Please spend no more than **3 hours** on this. When you reach 3 hours, stop and 
 
 ### Backend
 
-1. Load the polls from `assets/polls.json`. Add an endpoint that lists them, newest first. The title and the creation date are enough.
-2. Give each visitor version A or version B of the button. Half of the visitors get A and half get B. A visitor always gets the same version.
+1. Load the polls from `assets/polls.json`. Add an endpoint that lists all of them, newest first. The creation date is the `initiated` field, a Unix time in milliseconds. The title and the creation date are enough.
+2. Give each visitor version A or version B of the button. Half of the visitors get A and half get B. A visitor always gets the same version. This does not need to survive a server restart.
 3. Record two events: a visitor saw the button, and a visitor clicked the button.
-4. Add an endpoint that shows the results for each version: how many visitors saw the button, how many clicked it, and the click rate.
+4. Add an endpoint that shows the results for each version: how many unique visitors saw the button, how many of them clicked it, and the click rate.
 
 ### Frontend
 
-1. Show the list of polls with the title and the date it was created.
-2. Visitors do not log in. Each browser needs a visitor id that stays the same across reloads.
+1. Show all polls with the title and the date it was created.
+2. Visitors do not log in. Each browser needs a visitor id that stays the same across reloads. The browser or the server can create it.
 3. Show the version of the button the visitor is assigned to. Version A says "Create poll". You decide what version B changes.
 4. A click on the button does not need to create a poll. It only needs to be recorded.
 
@@ -43,8 +43,9 @@ Also write in your `README.md` how to start the app and what you left out.
 
 This is how we expect the 3 hours to be used. You can split them differently.
 
-- Backend: 1 hour
-- Frontend: 1 hour
+- Project setup: 15 minutes
+- Backend: 50 minutes
+- Frontend: 55 minutes
 - Tests: 30 minutes
 - README and questions: 30 minutes
 
@@ -53,7 +54,7 @@ This is how we expect the 3 hours to be used. You can split them differently.
 - Backend: a JVM language, preferably Java. We use Spring Boot, and you can use any framework you like.
 - Frontend: React with TypeScript. Doodle is used worldwide, so the page must work on commonly used browsers.
 - Storage: keep everything in memory. You do not need a database.
-- Running it: tell us how to start everything with one or two commands.
+- Running it: tell us how to start it. One terminal for the backend and one for the frontend is fine.
 - AI tools: you can use them. Tell us which ones you used and for what. In the follow-up call we will ask you to walk us through your code and make a small change to it.
 
 It is OK if you do not finish everything. Do what you think matters most first.
