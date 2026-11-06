@@ -12,10 +12,10 @@ Please spend no more than **3 hours** on this. When you reach 3 hours, stop and 
 
 ### Backend
 
-1. Load the polls from `assets/polls.json`. Add an endpoint that lists all of them, newest first. Include the polls where `hidden` is true. The creation date is the `initiated` field, a Unix time in milliseconds. The title and the creation date are enough.
+1. Load the polls from `assets/polls.json`. Add an endpoint that lists all of them, newest first. Ignore the `hidden` field. The creation date is the `initiated` field, a Unix time in milliseconds. The title and the creation date are enough.
 2. Give each visitor version A or version B of the button. Each new visitor has a 50% chance to get A and a 50% chance to get B. After that, the visitor always gets the same version. It is fine if this is lost when the server restarts.
 3. Record two events: a visitor saw the button, and a visitor clicked the button. "Saw" means the page with the button has loaded.
-4. Add an endpoint that returns the results for each version as JSON: how many visitors saw the button, how many of them clicked it, and the click rate. Count each visitor once, also when they reload the page or click more than once. The click rate is the number of visitors who clicked divided by the number of visitors who saw the button.
+4. Add an endpoint that returns the results for each version as JSON: how many visitors saw the button, how many of them clicked it, and the click rate. Count each visitor once, also when they reload the page or click more than once. The click rate is the number of visitors who clicked divided by the number of visitors who saw the button. The results endpoint must also work when a version has no visitors yet.
 
 ### Frontend
 
@@ -39,7 +39,7 @@ Answer these in your `README.md`. A few sentences each is enough.
 3. The split should be close to 50/50. What could make it come out different, and how would you notice?
 4. A click on "Upgrade" is not a subscription. What would you measure to know whether version B brings more paid subscriptions?
 
-Also write in your `README.md` how to start the app and what you left out.
+Also write in your `README.md` how to start the app, how long you took, and what you left out.
 
 ## Time
 
@@ -68,7 +68,7 @@ It is OK if you do not finish everything. Do what you think matters most first.
 - Clear answers to the questions.
 - Readable code and useful tests.
 - Small commits with useful messages.
-- The page loads fast on a phone and is easy to use, also with a keyboard or a screen reader.
+- The page loads fast on a phone and is easy to use, also with a keyboard.
 
 ## Next steps
 
